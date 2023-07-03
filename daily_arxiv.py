@@ -317,6 +317,34 @@ def json_to_md(filename,md_filename,
             f.write("  </ol>\n")
             f.write("</details>\n\n")
         
+        f.write("---\n" + "|---|---|---|---|---|\n")
+
+        for keyword in data.keys():
+            day_content = data[keyword]
+            if not day_content:
+                continue
+            # the head of each part
+            f.write(f"## {keyword}\n\n")
+
+            if use_title == True :
+                if to_web == False:
+                    f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
+                else:
+                    f.write("| Publish Date | Title | Authors | PDF | Code |\n")
+                    f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+
+            # sort papers by date
+            day_content = sort_papers(day_content)
+            temp_count = 0
+            for _,v in day_content.items():
+                if temp_count >= 7:
+                    break
+                if v is not None:
+                    f.write(pretty_math(v)) # make latex pretty
+                temp_count = temp_count + 1
+
+            f.write(f"\n")
+
         for keyword in data.keys():
             day_content = data[keyword]
             if not day_content:
