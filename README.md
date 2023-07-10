@@ -36,13 +36,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404](http://arxiv.org/abs/2307.03404)|null|
 |**2023-06-29**|**The Drunkard's Odometry: Estimating Camera Motion in Deforming Scenes**|David Recasens et.al.|[2306.16917](http://arxiv.org/abs/2306.16917)|**[link](https://github.com/UZ-SLAMLab/DrunkardsOdometry)**|
 |**2023-06-27**|**Detector-Free Structure from Motion**|Xingyi He et.al.|[2306.15669](http://arxiv.org/abs/2306.15669)|**[link](https://github.com/zju3dv/DetectorFreeSfM)**|
 |**2023-06-28**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667](http://arxiv.org/abs/2306.15667)|null|
 |**2023-06-24**|**3D Reconstruction of Spherical Images based on Incremental Structure from Motion**|San Jiang et.al.|[2306.12770](http://arxiv.org/abs/2306.12770)|null|
 |**2023-06-15**|**NAVI: Category-Agnostic Image Collections with High-Quality 3D Shape and Pose Annotations**|Varun Jampani et.al.|[2306.09109](http://arxiv.org/abs/2306.09109)|null|
 |**2023-06-15**|**Yes, we CANN: Constrained Approximate Nearest Neighbors for local feature-based visual localization**|Dror Aiger et.al.|[2306.09012](http://arxiv.org/abs/2306.09012)|null|
-|**2023-06-10**|**3D reconstruction using Structure for Motion**|Kshitij Karnawat et.al.|[2306.06360](http://arxiv.org/abs/2306.06360)|**[link](https://github.com/kshitijkarnawat/structure-from-motion)**|
 
 ## Visual Localization
 
@@ -84,13 +84,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441](http://arxiv.org/abs/2307.03441)|null|
+|**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404](http://arxiv.org/abs/2307.03404)|null|
 |**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723](http://arxiv.org/abs/2306.17723)|null|
 |**2023-07-03**|**Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions**|Gengchen Mai et.al.|[2306.17624](http://arxiv.org/abs/2306.17624)|null|
 |**2023-06-28**|**Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**|Chuanyue Shen et.al.|[2306.16541](http://arxiv.org/abs/2306.16541)|null|
 |**2023-06-27**|**Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2306.15203](http://arxiv.org/abs/2306.15203)|null|
 |**2023-06-22**|**Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields**|Ori Gordon et.al.|[2306.12760](http://arxiv.org/abs/2306.12760)|null|
-|**2023-06-21**|**Local 3D Editing via 3D Distillation of CLIP Knowledge**|Junha Hyung et.al.|[2306.12570](http://arxiv.org/abs/2306.12570)|null|
-|**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423](http://arxiv.org/abs/2306.12423)|**[link](https://github.com/qiuyu96/carver)**|
 
 ## SLAM
 
@@ -498,6 +498,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404](http://arxiv.org/abs/2307.03404)|null|
 |**2023-06-29**|**The Drunkard's Odometry: Estimating Camera Motion in Deforming Scenes**|David Recasens et.al.|[2306.16917](http://arxiv.org/abs/2306.16917)|**[link](https://github.com/UZ-SLAMLab/DrunkardsOdometry)**|
 |**2023-06-27**|**Detector-Free Structure from Motion**|Xingyi He et.al.|[2306.15669](http://arxiv.org/abs/2306.15669)|**[link](https://github.com/zju3dv/DetectorFreeSfM)**|
 |**2023-06-28**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667](http://arxiv.org/abs/2306.15667)|null|
@@ -1379,6 +1380,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441](http://arxiv.org/abs/2307.03441)|null|
+|**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404](http://arxiv.org/abs/2307.03404)|null|
 |**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723](http://arxiv.org/abs/2306.17723)|null|
 |**2023-07-03**|**Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions**|Gengchen Mai et.al.|[2306.17624](http://arxiv.org/abs/2306.17624)|null|
 |**2023-06-28**|**Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**|Chuanyue Shen et.al.|[2306.16541](http://arxiv.org/abs/2306.16541)|null|
