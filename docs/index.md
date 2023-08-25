@@ -40,25 +40,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities**|Jinze Bai et.al.|[2308.12966](http://arxiv.org/abs/2308.12966)|**[link](https://github.com/qwenlm/qwen-vl)**|
 |**2023-08-23**|**Progressive Feature Mining and External Knowledge-Assisted Text-Pedestrian Image Retrieval**|Huafeng Li et.al.|[2308.11994](http://arxiv.org/abs/2308.11994)|null|
 |**2023-08-23**|**OFVL-MS: Once for Visual Localization across Multiple Indoor Scenes**|Tao Xie et.al.|[2308.11928](http://arxiv.org/abs/2308.11928)|**[link](https://github.com/mooncake199809/ufvl-net)**|
 |**2023-08-22**|**Composed Image Retrieval using Contrastive Learning and Task-oriented CLIP-based Features**|Alberto Baldrati et.al.|[2308.11485](http://arxiv.org/abs/2308.11485)|**[link](https://github.com/ABaldrati/CLIP4Cir)**|
 |**2023-08-22**|**GrowCLIP: Data-aware Automatic Model Growing for Large-scale Contrastive Language-Image Pre-training**|Xinchi Deng et.al.|[2308.11331](http://arxiv.org/abs/2308.11331)|null|
 |**2023-08-22**|**LDP-Feat: Image Features with Local Differential Privacy**|Francesco Pittaluga et.al.|[2308.11223](http://arxiv.org/abs/2308.11223)|null|
 |**2023-08-21**|**EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition**|Gabriele Berton et.al.|[2308.10832](http://arxiv.org/abs/2308.10832)|**[link](https://github.com/gmberton/eigenplaces)**|
-|**2023-08-20**|**FashionNTM: Multi-turn Fashion Image Retrieval via Cascaded Memory**|Anwesan Pal et.al.|[2308.10170](http://arxiv.org/abs/2308.10170)|null|
 
 ## Keypoint Detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**VNI-Net: Vector Neurons-based Rotation-Invariant Descriptor for LiDAR Place Recognition**|Gengxuan Tian et.al.|[2308.12870](http://arxiv.org/abs/2308.12870)|null|
 |**2023-08-22**|**LDP-Feat: Image Features with Local Differential Privacy**|Francesco Pittaluga et.al.|[2308.11223](http://arxiv.org/abs/2308.11223)|null|
 |**2023-08-20**|**Neural Interactive Keypoint Detection**|Jie Yang et.al.|[2308.10174](http://arxiv.org/abs/2308.10174)|**[link](https://github.com/idea-research/click-pose)**|
 |**2023-08-19**|**ClothesNet: An Information-Rich 3D Garment Model Repository with Simulated Clothes Environment**|Bingyang Zhou et.al.|[2308.09987](http://arxiv.org/abs/2308.09987)|null|
 |**2023-08-16**|**DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**|Johan Edstedt et.al.|[2308.08479](http://arxiv.org/abs/2308.08479)|**[link](https://github.com/parskatt/dedode)**|
 |**2023-08-15**|**CoDeF: Content Deformation Fields for Temporally Consistent Video Processing**|Hao Ouyang et.al.|[2308.07926](http://arxiv.org/abs/2308.07926)|**[link](https://github.com/qiuyu96/codef)**|
 |**2023-08-15**|**ChartDETR: A Multi-shape Detection Network for Visual Chart Recognition**|Wenyuan Xue et.al.|[2308.07743](http://arxiv.org/abs/2308.07743)|null|
-|**2023-08-14**|**DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport**|Sk Aziz Ali et.al.|[2308.07153](http://arxiv.org/abs/2308.07153)|null|
 
 ## Image Matching
 
@@ -76,13 +76,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**NOVA: NOvel View Augmentation for Neural Composition of Dynamic Objects**|Dakshit Agrawal et.al.|[2308.12560](http://arxiv.org/abs/2308.12560)|**[link](https://github.com/dakshitagrawal/nova)**|
 |**2023-08-23**|**Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields**|Hyeonseop Song et.al.|[2308.11974](http://arxiv.org/abs/2308.11974)|null|
 |**2023-08-23**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-22**|**Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer with Mixture-of-View-Experts**|Wenyan Cong et.al.|[2308.11793](http://arxiv.org/abs/2308.11793)|null|
 |**2023-08-22**|**SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)**|Ange Lou et.al.|[2308.11774](http://arxiv.org/abs/2308.11774)|null|
 |**2023-08-22**|**Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views**|Wentian Qu et.al.|[2308.11198](http://arxiv.org/abs/2308.11198)|null|
 |**2023-08-22**|**Efficient View Synthesis with Neural Radiance Distribution Field**|Yushuang Wu et.al.|[2308.11130](http://arxiv.org/abs/2308.11130)|null|
-|**2023-08-21**|**CamP: Camera Preconditioning for Neural Radiance Fields**|Keunhong Park et.al.|[2308.10902](http://arxiv.org/abs/2308.10902)|null|
 
 ## SLAM
 
@@ -620,6 +620,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities**|Jinze Bai et.al.|[2308.12966](http://arxiv.org/abs/2308.12966)|**[link](https://github.com/qwenlm/qwen-vl)**|
 |**2023-08-23**|**Progressive Feature Mining and External Knowledge-Assisted Text-Pedestrian Image Retrieval**|Huafeng Li et.al.|[2308.11994](http://arxiv.org/abs/2308.11994)|null|
 |**2023-08-23**|**OFVL-MS: Once for Visual Localization across Multiple Indoor Scenes**|Tao Xie et.al.|[2308.11928](http://arxiv.org/abs/2308.11928)|**[link](https://github.com/mooncake199809/ufvl-net)**|
 |**2023-08-22**|**Composed Image Retrieval using Contrastive Learning and Task-oriented CLIP-based Features**|Alberto Baldrati et.al.|[2308.11485](http://arxiv.org/abs/2308.11485)|**[link](https://github.com/ABaldrati/CLIP4Cir)**|
@@ -1123,6 +1124,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**VNI-Net: Vector Neurons-based Rotation-Invariant Descriptor for LiDAR Place Recognition**|Gengxuan Tian et.al.|[2308.12870](http://arxiv.org/abs/2308.12870)|null|
 |**2023-08-22**|**LDP-Feat: Image Features with Local Differential Privacy**|Francesco Pittaluga et.al.|[2308.11223](http://arxiv.org/abs/2308.11223)|null|
 |**2023-08-20**|**Neural Interactive Keypoint Detection**|Jie Yang et.al.|[2308.10174](http://arxiv.org/abs/2308.10174)|**[link](https://github.com/idea-research/click-pose)**|
 |**2023-08-19**|**ClothesNet: An Information-Rich 3D Garment Model Repository with Simulated Clothes Environment**|Bingyang Zhou et.al.|[2308.09987](http://arxiv.org/abs/2308.09987)|null|
@@ -1450,6 +1452,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**NOVA: NOvel View Augmentation for Neural Composition of Dynamic Objects**|Dakshit Agrawal et.al.|[2308.12560](http://arxiv.org/abs/2308.12560)|**[link](https://github.com/dakshitagrawal/nova)**|
 |**2023-08-23**|**Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields**|Hyeonseop Song et.al.|[2308.11974](http://arxiv.org/abs/2308.11974)|null|
 |**2023-08-23**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951](http://arxiv.org/abs/2308.11951)|null|
 |**2023-08-22**|**Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer with Mixture-of-View-Experts**|Wenyan Cong et.al.|[2308.11793](http://arxiv.org/abs/2308.11793)|null|
