@@ -52,13 +52,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-07**|**InstructDiffusion: A Generalist Modeling Interface for Vision Tasks**|Zigang Geng et.al.|[2309.03895](http://arxiv.org/abs/2309.03895)|null|
 |**2023-09-04**|**SKoPe3D: A Synthetic Dataset for Vehicle Keypoint Perception in 3D from Traffic Monitoring Cameras**|Himanshu Pahadia et.al.|[2309.01324](http://arxiv.org/abs/2309.01324)|null|
 |**2023-09-01**|**Improving the matching of deformable objects by learning to detect keypoints**|Felipe Cadar et.al.|[2309.00434](http://arxiv.org/abs/2309.00434)|null|
 |**2023-08-31**|**SportsSloMo: A New Benchmark and Baselines for Human-centric Video Frame Interpolation**|Jiaben Chen et.al.|[2308.16876](http://arxiv.org/abs/2308.16876)|null|
 |**2023-08-30**|**Learning Structure-from-Motion with Graph Attention Networks**|Lucas Brynte et.al.|[2308.15984](http://arxiv.org/abs/2308.15984)|null|
 |**2023-08-29**|**A lightweight 3D dense facial landmark estimation model from position map data**|Shubhajit Basak et.al.|[2308.15170](http://arxiv.org/abs/2308.15170)|null|
 |**2023-08-27**|**Automatic coarse co-registration of point clouds from diverse scan geometries: a test of detectors and descriptors**|Francesco Pirotti et.al.|[2308.14047](http://arxiv.org/abs/2308.14047)|null|
-|**2023-08-24**|**VNI-Net: Vector Neurons-based Rotation-Invariant Descriptor for LiDAR Place Recognition**|Gengxuan Tian et.al.|[2308.12870](http://arxiv.org/abs/2308.12870)|null|
 
 ## Image Matching
 
@@ -76,13 +76,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-07**|**Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model**|Sungwon Hwang et.al.|[2309.03550](http://arxiv.org/abs/2309.03550)|null|
 |**2023-09-06**|**Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**|Lily Goli et.al.|[2309.03185](http://arxiv.org/abs/2309.03185)|null|
-|**2023-09-06**|**ResFields: Residual Neural Fields for Spatiotemporal Signals**|Marko Mihajlovic et.al.|[2309.03160](http://arxiv.org/abs/2309.03160)|null|
+|**2023-09-06**|**ResFields: Residual Neural Fields for Spatiotemporal Signals**|Marko Mihajlovic et.al.|[2309.03160](http://arxiv.org/abs/2309.03160)|**[link](https://github.com/markomih/ResFields)**|
 |**2023-09-06**|**Instant Continual Learning of Neural Radiance Fields**|Ryan Po et.al.|[2309.01811](http://arxiv.org/abs/2309.01811)|null|
 |**2023-09-04**|**Adv3D: Generating 3D Adversarial Examples in Driving Scenarios with NeRF**|Leheng Li et.al.|[2309.01351](http://arxiv.org/abs/2309.01351)|null|
 |**2023-09-01**|**SparseSat-NeRF: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images**|Lulin Zhang et.al.|[2309.00277](http://arxiv.org/abs/2309.00277)|**[link](https://github.com/lulinzhang/sps-nerf)**|
 |**2023-08-24**|**Improving NeRF Quality by Progressive Camera Placement for Unrestricted Navigation in Complex Environments**|Georgios Kopanas et.al.|[2309.00014](http://arxiv.org/abs/2309.00014)|null|
-|**2023-09-03**|**GHuNeRF: Generalizable Human NeRF from a Monocular Video**|Chen Li et.al.|[2308.16576](http://arxiv.org/abs/2308.16576)|null|
 
 ## SLAM
 
@@ -1141,6 +1141,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-07**|**InstructDiffusion: A Generalist Modeling Interface for Vision Tasks**|Zigang Geng et.al.|[2309.03895](http://arxiv.org/abs/2309.03895)|null|
 |**2023-09-04**|**SKoPe3D: A Synthetic Dataset for Vehicle Keypoint Perception in 3D from Traffic Monitoring Cameras**|Himanshu Pahadia et.al.|[2309.01324](http://arxiv.org/abs/2309.01324)|null|
 |**2023-09-01**|**Improving the matching of deformable objects by learning to detect keypoints**|Felipe Cadar et.al.|[2309.00434](http://arxiv.org/abs/2309.00434)|null|
 |**2023-08-31**|**SportsSloMo: A New Benchmark and Baselines for Human-centric Video Frame Interpolation**|Jiaben Chen et.al.|[2308.16876](http://arxiv.org/abs/2308.16876)|null|
@@ -1479,8 +1480,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-07**|**Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model**|Sungwon Hwang et.al.|[2309.03550](http://arxiv.org/abs/2309.03550)|null|
 |**2023-09-06**|**Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**|Lily Goli et.al.|[2309.03185](http://arxiv.org/abs/2309.03185)|null|
-|**2023-09-06**|**ResFields: Residual Neural Fields for Spatiotemporal Signals**|Marko Mihajlovic et.al.|[2309.03160](http://arxiv.org/abs/2309.03160)|null|
+|**2023-09-06**|**ResFields: Residual Neural Fields for Spatiotemporal Signals**|Marko Mihajlovic et.al.|[2309.03160](http://arxiv.org/abs/2309.03160)|**[link](https://github.com/markomih/ResFields)**|
 |**2023-09-06**|**Instant Continual Learning of Neural Radiance Fields**|Ryan Po et.al.|[2309.01811](http://arxiv.org/abs/2309.01811)|null|
 |**2023-09-04**|**Adv3D: Generating 3D Adversarial Examples in Driving Scenarios with NeRF**|Leheng Li et.al.|[2309.01351](http://arxiv.org/abs/2309.01351)|null|
 |**2023-09-01**|**SparseSat-NeRF: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images**|Lulin Zhang et.al.|[2309.00277](http://arxiv.org/abs/2309.00277)|**[link](https://github.com/lulinzhang/sps-nerf)**|
