@@ -40,13 +40,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-10**|**Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization**|Le Chen et.al.|[2310.06984](http://arxiv.org/abs/2310.06984)|null|
+|**2023-10-10**|**Distillation Improves Visual Place Recognition for Low-Quality Queries**|Anbang Yang et.al.|[2310.06906](http://arxiv.org/abs/2310.06906)|null|
 |**2023-10-10**|**Efficient Retrieval of Images with Irregular Patterns using Morphological Image Analysis: Applications to Industrial and Healthcare datasets**|Jiajun Zhang et.al.|[2310.06566](http://arxiv.org/abs/2310.06566)|null|
 |**2023-10-10**|**Topological RANSAC for instance verification and retrieval without fine-tuning**|Guoyuan An et.al.|[2310.06486](http://arxiv.org/abs/2310.06486)|null|
 |**2023-10-10**|**3DS-SLAM: A 3D Object Detection based Semantic SLAM towards Dynamic Indoor Environments**|Ghanta Sai Krishna et.al.|[2310.06385](http://arxiv.org/abs/2310.06385)|**[link](https://github.com/sai-krishna-ghanta/3DS-SLAM)**|
 |**2023-10-09**|**Collaborative Visual Place Recognition**|Yiming Li et.al.|[2310.05541](http://arxiv.org/abs/2310.05541)|null|
 |**2023-10-09**|**Sentence-level Prompts Benefit Composed Image Retrieval**|Yang Bai et.al.|[2310.05473](http://arxiv.org/abs/2310.05473)|**[link](https://github.com/chunmeifeng/sprc)**|
-|**2023-10-08**|**AANet: Aggregation and Alignment Network with Semi-hard Positive Sample Mining for Hierarchical Place Recognition**|Feng Lu et.al.|[2310.05184](http://arxiv.org/abs/2310.05184)|**[link](https://github.com/Lu-Feng/AANet)**|
-|**2023-10-08**|**LocoNeRF: A NeRF-based Approach for Local Structure from Motion for Precise Localization**|Artem Nenashev et.al.|[2310.05134](http://arxiv.org/abs/2310.05134)|null|
 
 ## Keypoint Detection
 
@@ -76,13 +76,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-11**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449](http://arxiv.org/abs/2310.07449)|null|
+|**2023-10-11**|**rpcPRF: Generalizable MPI Neural Radiance Field for Satellite Camera**|Tongtong Zhang et.al.|[2310.07179](http://arxiv.org/abs/2310.07179)|null|
+|**2023-10-10**|**Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization**|Le Chen et.al.|[2310.06984](http://arxiv.org/abs/2310.06984)|null|
 |**2023-10-10**|**High-Fidelity 3D Head Avatars Reconstruction through Spatially-Varying Expression Conditioned Neural Radiance Field**|Minghan Qin et.al.|[2310.06275](http://arxiv.org/abs/2310.06275)|null|
 |**2023-10-09**|**A Real-time Method for Inserting Virtual Objects into Neural Radiance Fields**|Keyang Ye et.al.|[2310.05837](http://arxiv.org/abs/2310.05837)|null|
 |**2023-10-09**|**Neural Impostor: Editing Neural Radiance Fields with Explicit Shape Manipulation**|Ruiyang Liu et.al.|[2310.05391](http://arxiv.org/abs/2310.05391)|null|
 |**2023-10-08**|**LocoNeRF: A NeRF-based Approach for Local Structure from Motion for Precise Localization**|Artem Nenashev et.al.|[2310.05134](http://arxiv.org/abs/2310.05134)|null|
-|**2023-10-08**|**Geometry Aware Field-to-field Transformations for 3D Semantic Segmentation**|Dominik Hollidt et.al.|[2310.05133](http://arxiv.org/abs/2310.05133)|null|
-|**2023-10-06**|**Improving Neural Radiance Field using Near-Surface Sampling with Point Cloud Generation**|Hye Bin Yoo et.al.|[2310.04152](http://arxiv.org/abs/2310.04152)|null|
-|**2023-10-05**|**Drag View: Generalizable Novel View Synthesis with Unposed Imagery**|Zhiwen Fan et.al.|[2310.03704](http://arxiv.org/abs/2310.03704)|null|
 
 ## SLAM
 
@@ -648,6 +648,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-10**|**Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization**|Le Chen et.al.|[2310.06984](http://arxiv.org/abs/2310.06984)|null|
+|**2023-10-10**|**Distillation Improves Visual Place Recognition for Low-Quality Queries**|Anbang Yang et.al.|[2310.06906](http://arxiv.org/abs/2310.06906)|null|
 |**2023-10-10**|**Efficient Retrieval of Images with Irregular Patterns using Morphological Image Analysis: Applications to Industrial and Healthcare datasets**|Jiajun Zhang et.al.|[2310.06566](http://arxiv.org/abs/2310.06566)|null|
 |**2023-10-10**|**Topological RANSAC for instance verification and retrieval without fine-tuning**|Guoyuan An et.al.|[2310.06486](http://arxiv.org/abs/2310.06486)|null|
 |**2023-10-10**|**3DS-SLAM: A 3D Object Detection based Semantic SLAM towards Dynamic Indoor Environments**|Ghanta Sai Krishna et.al.|[2310.06385](http://arxiv.org/abs/2310.06385)|**[link](https://github.com/sai-krishna-ghanta/3DS-SLAM)**|
@@ -1556,6 +1558,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-11**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449](http://arxiv.org/abs/2310.07449)|null|
+|**2023-10-11**|**rpcPRF: Generalizable MPI Neural Radiance Field for Satellite Camera**|Tongtong Zhang et.al.|[2310.07179](http://arxiv.org/abs/2310.07179)|null|
+|**2023-10-10**|**Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization**|Le Chen et.al.|[2310.06984](http://arxiv.org/abs/2310.06984)|null|
 |**2023-10-10**|**High-Fidelity 3D Head Avatars Reconstruction through Spatially-Varying Expression Conditioned Neural Radiance Field**|Minghan Qin et.al.|[2310.06275](http://arxiv.org/abs/2310.06275)|null|
 |**2023-10-09**|**A Real-time Method for Inserting Virtual Objects into Neural Radiance Fields**|Keyang Ye et.al.|[2310.05837](http://arxiv.org/abs/2310.05837)|null|
 |**2023-10-09**|**Neural Impostor: Editing Neural Radiance Fields with Explicit Shape Manipulation**|Ruiyang Liu et.al.|[2310.05391](http://arxiv.org/abs/2310.05391)|null|
