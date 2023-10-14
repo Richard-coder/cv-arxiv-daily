@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.13
+## Updated on 2023.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ---
@@ -76,7 +76,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-11**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449](http://arxiv.org/abs/2310.07449)|null|
+|**2023-10-12**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449](http://arxiv.org/abs/2310.07449)|null|
 |**2023-10-11**|**rpcPRF: Generalizable MPI Neural Radiance Field for Satellite Camera**|Tongtong Zhang et.al.|[2310.07179](http://arxiv.org/abs/2310.07179)|null|
 |**2023-10-10**|**Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization**|Le Chen et.al.|[2310.06984](http://arxiv.org/abs/2310.06984)|null|
 |**2023-10-10**|**High-Fidelity 3D Head Avatars Reconstruction through Spatially-Varying Expression Conditioned Neural Radiance Field**|Minghan Qin et.al.|[2310.06275](http://arxiv.org/abs/2310.06275)|null|
@@ -657,7 +657,7 @@ layout: default
 |**2023-10-09**|**Sentence-level Prompts Benefit Composed Image Retrieval**|Yang Bai et.al.|[2310.05473](http://arxiv.org/abs/2310.05473)|**[link](https://github.com/chunmeifeng/sprc)**|
 |**2023-10-08**|**AANet: Aggregation and Alignment Network with Semi-hard Positive Sample Mining for Hierarchical Place Recognition**|Feng Lu et.al.|[2310.05184](http://arxiv.org/abs/2310.05184)|**[link](https://github.com/Lu-Feng/AANet)**|
 |**2023-10-08**|**LocoNeRF: A NeRF-based Approach for Local Structure from Motion for Precise Localization**|Artem Nenashev et.al.|[2310.05134](http://arxiv.org/abs/2310.05134)|null|
-|**2023-10-06**|**ClusVPR: Efficient Visual Place Recognition with Clustering-based Weighted Transformer**|Yifan Xu et.al.|[2310.04099](http://arxiv.org/abs/2310.04099)|null|
+|**2023-10-12**|**ClusVPR: Efficient Visual Place Recognition with Clustering-based Weighted Transformer**|Yifan Xu et.al.|[2310.04099](http://arxiv.org/abs/2310.04099)|null|
 |**2023-10-06**|**Sub-token ViT Embedding via Stochastic Resonance Transformers**|Dong Lao et.al.|[2310.03967](http://arxiv.org/abs/2310.03967)|null|
 |**2023-10-04**|**Active Visual Localization for Multi-Agent Collaboration: A Data-Driven Approach**|Matthew Hanlon et.al.|[2310.02650](http://arxiv.org/abs/2310.02650)|null|
 |**2023-10-02**|**NEUCORE: Neural Concept Reasoning for Composed Image Retrieval**|Shu Zhao et.al.|[2310.01358](http://arxiv.org/abs/2310.01358)|null|
@@ -1558,7 +1558,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-11**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449](http://arxiv.org/abs/2310.07449)|null|
+|**2023-10-12**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449](http://arxiv.org/abs/2310.07449)|null|
 |**2023-10-11**|**rpcPRF: Generalizable MPI Neural Radiance Field for Satellite Camera**|Tongtong Zhang et.al.|[2310.07179](http://arxiv.org/abs/2310.07179)|null|
 |**2023-10-10**|**Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization**|Le Chen et.al.|[2310.06984](http://arxiv.org/abs/2310.06984)|null|
 |**2023-10-10**|**High-Fidelity 3D Head Avatars Reconstruction through Spatially-Varying Expression Conditioned Neural Radiance Field**|Minghan Qin et.al.|[2310.06275](http://arxiv.org/abs/2310.06275)|null|
