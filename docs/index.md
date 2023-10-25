@@ -40,13 +40,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-24**|**Cross-view Self-localization from Synthesized Scene-graphs**|Ryogo Yamamoto et.al.|[2310.15504](http://arxiv.org/abs/2310.15504)|null|
 |**2023-10-23**|**Semantic-Aware Adversarial Training for Reliable Deep Hashing Retrieval**|Xu Yuan et.al.|[2310.14637](http://arxiv.org/abs/2310.14637)|**[link](https://github.com/xandery-geek/SAAT)**|
-|**2023-10-21**|**Large Language Models and Multimodal Retrieval for Visual Word Sense Disambiguation**|Anastasia Kritharoula et.al.|[2310.14025](http://arxiv.org/abs/2310.14025)|null|
+|**2023-10-21**|**Large Language Models and Multimodal Retrieval for Visual Word Sense Disambiguation**|Anastasia Kritharoula et.al.|[2310.14025](http://arxiv.org/abs/2310.14025)|**[link](https://github.com/anastasiakrith/multimodal-retrieval-for-vwsd)**|
 |**2023-10-20**|**FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer**|Xinyu Zhang et.al.|[2310.13605](http://arxiv.org/abs/2310.13605)|null|
 |**2023-10-20**|**CylinderTag: An Accurate and Flexible Marker for Cylinder-Shape Objects Pose Estimation Based on Projective Invariants**|Shaoan Wang et.al.|[2310.13320](http://arxiv.org/abs/2310.13320)|**[link](https://github.com/wsakobe/cylindertag)**|
 |**2023-10-19**|**Representation Learning via Consistent Assignment of Views over Random Partitions**|Thalles Silva et.al.|[2310.12692](http://arxiv.org/abs/2310.12692)|**[link](https://github.com/sthalles/carp)**|
 |**2023-10-18**|**Evaluating the Fairness of Discriminative Foundation Models in Computer Vision**|Junaid Ali et.al.|[2310.11867](http://arxiv.org/abs/2310.11867)|null|
-|**2023-10-17**|**Learning Comprehensive Representations with Richer Self for Text-to-Image Person Re-Identification**|Shuanglin Yan et.al.|[2310.11210](http://arxiv.org/abs/2310.11210)|null|
 
 ## Keypoint Detection
 
@@ -76,13 +76,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-24**|**Cross-view Self-localization from Synthesized Scene-graphs**|Ryogo Yamamoto et.al.|[2310.15504](http://arxiv.org/abs/2310.15504)|null|
 |**2023-10-23**|**CAwa-NeRF: Instant Learning of Compression-Aware NeRF Features**|Omnia Mahmoud et.al.|[2310.14695](http://arxiv.org/abs/2310.14695)|null|
 |**2023-10-23**|**VQ-NeRF: Vector Quantization Enhances Implicit Neural Representations**|Yiying Yang et.al.|[2310.14487](http://arxiv.org/abs/2310.14487)|null|
 |**2023-10-20**|**ManifoldNeRF: View-dependent Image Feature Supervision for Few-shot Neural Radiance Fields**|Daiju Kanaoka et.al.|[2310.13670](http://arxiv.org/abs/2310.13670)|null|
 |**2023-10-20**|**Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos**|Seoha Kim et.al.|[2310.13356](http://arxiv.org/abs/2310.13356)|null|
 |**2023-10-20**|**UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene**|Jiaming Gu et.al.|[2310.13263](http://arxiv.org/abs/2310.13263)|null|
 |**2023-10-18**|**VQ-NeRF: Neural Reflectance Decomposition and Editing with Vector Quantization**|Hongliang Zhong et.al.|[2310.11864](http://arxiv.org/abs/2310.11864)|null|
-|**2023-10-18**|**Towards Abdominal 3-D Scene Rendering from Laparoscopy Surgical Videos using NeRFs**|Khoa Tuan Nguyen et.al.|[2310.11645](http://arxiv.org/abs/2310.11645)|null|
 
 ## SLAM
 
@@ -653,8 +653,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-24**|**Cross-view Self-localization from Synthesized Scene-graphs**|Ryogo Yamamoto et.al.|[2310.15504](http://arxiv.org/abs/2310.15504)|null|
 |**2023-10-23**|**Semantic-Aware Adversarial Training for Reliable Deep Hashing Retrieval**|Xu Yuan et.al.|[2310.14637](http://arxiv.org/abs/2310.14637)|**[link](https://github.com/xandery-geek/SAAT)**|
-|**2023-10-21**|**Large Language Models and Multimodal Retrieval for Visual Word Sense Disambiguation**|Anastasia Kritharoula et.al.|[2310.14025](http://arxiv.org/abs/2310.14025)|null|
+|**2023-10-21**|**Large Language Models and Multimodal Retrieval for Visual Word Sense Disambiguation**|Anastasia Kritharoula et.al.|[2310.14025](http://arxiv.org/abs/2310.14025)|**[link](https://github.com/anastasiakrith/multimodal-retrieval-for-vwsd)**|
 |**2023-10-20**|**FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer**|Xinyu Zhang et.al.|[2310.13605](http://arxiv.org/abs/2310.13605)|null|
 |**2023-10-20**|**CylinderTag: An Accurate and Flexible Marker for Cylinder-Shape Objects Pose Estimation Based on Projective Invariants**|Shaoan Wang et.al.|[2310.13320](http://arxiv.org/abs/2310.13320)|**[link](https://github.com/wsakobe/cylindertag)**|
 |**2023-10-19**|**Representation Learning via Consistent Assignment of Views over Random Partitions**|Thalles Silva et.al.|[2310.12692](http://arxiv.org/abs/2310.12692)|**[link](https://github.com/sthalles/carp)**|
@@ -1583,6 +1584,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-24**|**Cross-view Self-localization from Synthesized Scene-graphs**|Ryogo Yamamoto et.al.|[2310.15504](http://arxiv.org/abs/2310.15504)|null|
 |**2023-10-23**|**CAwa-NeRF: Instant Learning of Compression-Aware NeRF Features**|Omnia Mahmoud et.al.|[2310.14695](http://arxiv.org/abs/2310.14695)|null|
 |**2023-10-23**|**VQ-NeRF: Vector Quantization Enhances Implicit Neural Representations**|Yiying Yang et.al.|[2310.14487](http://arxiv.org/abs/2310.14487)|null|
 |**2023-10-20**|**ManifoldNeRF: View-dependent Image Feature Supervision for Few-shot Neural Radiance Fields**|Daiju Kanaoka et.al.|[2310.13670](http://arxiv.org/abs/2310.13670)|null|
