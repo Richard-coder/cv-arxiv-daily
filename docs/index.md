@@ -76,13 +76,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-03**|**Estimating 3D Uncertainty Field: Quantifying Uncertainty for Neural Radiance Fields**|Jianxiong Shen et.al.|[2311.01815](http://arxiv.org/abs/2311.01815)|null|
+|**2023-11-03**|**PDF: Point Diffusion Implicit Function for Large-scale Scene Neural Representation**|Yuhan Ding et.al.|[2311.01773](http://arxiv.org/abs/2311.01773)|null|
+|**2023-11-03**|**Efficient Cloud Pipelines for Neural Radiance Fields**|Derek Jacoby et.al.|[2311.01659](http://arxiv.org/abs/2311.01659)|null|
 |**2023-11-02**|**Novel View Synthesis from a Single RGBD Image for Indoor Scenes**|Congrui Hetang et.al.|[2311.01065](http://arxiv.org/abs/2311.01065)|null|
 |**2023-10-31**|**FPO++: Efficient Encoding and Rendering of Dynamic Neural Radiance Fields by Analyzing and Enhancing Fourier PlenOctrees**|Saskia Rabich et.al.|[2310.20710](http://arxiv.org/abs/2310.20710)|null|
 |**2023-10-31**|**NeRF Revisited: Fixing Quadrature Instability in Volume Rendering**|Mikaela Angelina Uy et.al.|[2310.20685](http://arxiv.org/abs/2310.20685)|null|
 |**2023-10-30**|**Generative Neural Fields by Mixtures of Neural Implicit Functions**|Tackgeun You et.al.|[2310.19464](http://arxiv.org/abs/2310.19464)|null|
-|**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/abs/2310.18917)|null|
-|**2023-10-28**|**INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings**|Amirhossein Kazerouni et.al.|[2310.18846](http://arxiv.org/abs/2310.18846)|**[link](https://github.com/xmindflow/INCODE)**|
-|**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994](http://arxiv.org/abs/2310.17994)|null|
 
 ## SLAM
 
@@ -1589,6 +1589,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-03**|**Estimating 3D Uncertainty Field: Quantifying Uncertainty for Neural Radiance Fields**|Jianxiong Shen et.al.|[2311.01815](http://arxiv.org/abs/2311.01815)|null|
+|**2023-11-03**|**PDF: Point Diffusion Implicit Function for Large-scale Scene Neural Representation**|Yuhan Ding et.al.|[2311.01773](http://arxiv.org/abs/2311.01773)|null|
+|**2023-11-03**|**Efficient Cloud Pipelines for Neural Radiance Fields**|Derek Jacoby et.al.|[2311.01659](http://arxiv.org/abs/2311.01659)|null|
 |**2023-11-02**|**Novel View Synthesis from a Single RGBD Image for Indoor Scenes**|Congrui Hetang et.al.|[2311.01065](http://arxiv.org/abs/2311.01065)|null|
 |**2023-10-31**|**FPO++: Efficient Encoding and Rendering of Dynamic Neural Radiance Fields by Analyzing and Enhancing Fourier PlenOctrees**|Saskia Rabich et.al.|[2310.20710](http://arxiv.org/abs/2310.20710)|null|
 |**2023-10-31**|**NeRF Revisited: Fixing Quadrature Instability in Volume Rendering**|Mikaela Angelina Uy et.al.|[2310.20685](http://arxiv.org/abs/2310.20685)|null|
