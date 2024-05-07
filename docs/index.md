@@ -40,13 +40,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**A New Robust Partial $p$ -Wasserstein-Based Metric for Comparing Distributions**|Sharath Raghvendra et.al.|[2405.03664](http://arxiv.org/abs/2405.03664)|null|
+|**2024-05-06**|**Knowledge-aware Text-Image Retrieval for Remote Sensing Images**|Li Mi et.al.|[2405.03373](http://arxiv.org/abs/2405.03373)|null|
+|**2024-05-06**|**Adapting Dual-encoder Vision-language Models for Paraphrased Retrieval**|Jiacheng Cheng et.al.|[2405.03190](http://arxiv.org/abs/2405.03190)|null|
+|**2024-05-05**|**iSEARLE: Improving Textual Inversion for Zero-Shot Composed Image Retrieval**|Lorenzo Agnolucci et.al.|[2405.02951](http://arxiv.org/abs/2405.02951)|**[link](https://github.com/miccunifi/searle)**|
 |**2024-05-01**|**Spherical Linear Interpolation and Text-Anchoring for Zero-shot Composed Image Retrieval**|Young Kyun Jang et.al.|[2405.00571](http://arxiv.org/abs/2405.00571)|null|
 |**2024-04-30**|**Large Language Model Informed Patent Image Retrieval**|Hao-Cheng Lo et.al.|[2404.19360](http://arxiv.org/abs/2404.19360)|null|
 |**2024-04-30**|**XFeat: Accelerated Features for Lightweight Image Matching**|Guilherme Potje et.al.|[2404.19174](http://arxiv.org/abs/2404.19174)|null|
-|**2024-04-29**|**Enhancing Interactive Image Retrieval With Query Rewriting Using Large Language Models and Vision Language Models**|Hongyi Zhu et.al.|[2404.18746](http://arxiv.org/abs/2404.18746)|null|
-|**2024-04-29**|**Dual-Modal Prompting for Sketch-Based Image Retrieval**|Liying Gao et.al.|[2404.18695](http://arxiv.org/abs/2404.18695)|null|
-|**2024-05-01**|**Semantic Line Combination Detector**|Jinwon Ko et.al.|[2404.18399](http://arxiv.org/abs/2404.18399)|**[link](https://github.com/jinwon-ko/slcd)**|
-|**2024-04-26**|**Learning text-to-video retrieval from image captioning**|Lucas Ventura et.al.|[2404.17498](http://arxiv.org/abs/2404.17498)|null|
 
 ## Keypoint Detection
 
@@ -76,13 +76,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-05**|**Blending Distributed NeRFs with Tri-stage Robust Pose Optimization**|Baijun Ye et.al.|[2405.02880](http://arxiv.org/abs/2405.02880)|null|
+|**2024-05-05**|**MVIP-NeRF: Multi-view 3D Inpainting on NeRF Scenes via Diffusion Prior**|Honghua Chen et.al.|[2405.02859](http://arxiv.org/abs/2405.02859)|null|
+|**2024-05-04**|**TK-Planes: Tiered K-Planes with High Dimensional Feature Vectors for Dynamic UAV-based Scenes**|Christopher Maxey et.al.|[2405.02762](http://arxiv.org/abs/2405.02762)|null|
+|**2024-05-04**|**ActiveNeuS: Active 3D Reconstruction using Neural Implicit Surface Uncertainty**|Hyunseo Kim et.al.|[2405.02568](http://arxiv.org/abs/2405.02568)|null|
+|**2024-05-03**|**Learning Robot Soccer from Egocentric Vision with Deep Reinforcement Learning**|Dhruva Tirumala et.al.|[2405.02425](http://arxiv.org/abs/2405.02425)|null|
+|**2024-05-03**|**Rip-NeRF: Anti-aliasing Radiance Fields with Ripmap-Encoded Platonic Solids**|Junchen Liu et.al.|[2405.02386](http://arxiv.org/abs/2405.02386)|**[link](https://github.com/junchenliu77/rip-nerf)**|
 |**2024-05-03**|**WateRF: Robust Watermarks in Radiance Fields for Protection of Copyrights**|Youngdong Jang et.al.|[2405.02066](http://arxiv.org/abs/2405.02066)|null|
-|**2024-05-02**|**NeRF in Robotics: A Survey**|Guangming Wang et.al.|[2405.01333](http://arxiv.org/abs/2405.01333)|null|
-|**2024-05-01**|**DiL-NeRF: Delving into Lidar for Neural Radiance Field on Street Scenes**|Shanlin Sun et.al.|[2405.00900](http://arxiv.org/abs/2405.00900)|null|
-|**2024-05-01**|**Depth Priors in Removal Neural Radiance Fields**|Zhihao Guo et.al.|[2405.00630](http://arxiv.org/abs/2405.00630)|null|
-|**2024-05-01**|**NeRF-Guided Unsupervised Learning of RGB-D Registration**|Zhinan Yu et.al.|[2405.00507](http://arxiv.org/abs/2405.00507)|null|
-|**2024-05-01**|**RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting**|Zhexi Peng et.al.|[2404.19706](http://arxiv.org/abs/2404.19706)|null|
-|**2024-04-30**|**NeRF-Insert: 3D Local Editing with Multimodal Control Signals**|Benet Oriol Sabat et.al.|[2404.19204](http://arxiv.org/abs/2404.19204)|null|
 
 ## SLAM
 
@@ -737,6 +737,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**A New Robust Partial $p$ -Wasserstein-Based Metric for Comparing Distributions**|Sharath Raghvendra et.al.|[2405.03664](http://arxiv.org/abs/2405.03664)|null|
+|**2024-05-06**|**Knowledge-aware Text-Image Retrieval for Remote Sensing Images**|Li Mi et.al.|[2405.03373](http://arxiv.org/abs/2405.03373)|null|
+|**2024-05-06**|**Adapting Dual-encoder Vision-language Models for Paraphrased Retrieval**|Jiacheng Cheng et.al.|[2405.03190](http://arxiv.org/abs/2405.03190)|null|
+|**2024-05-05**|**iSEARLE: Improving Textual Inversion for Zero-Shot Composed Image Retrieval**|Lorenzo Agnolucci et.al.|[2405.02951](http://arxiv.org/abs/2405.02951)|**[link](https://github.com/miccunifi/searle)**|
 |**2024-05-01**|**Spherical Linear Interpolation and Text-Anchoring for Zero-shot Composed Image Retrieval**|Young Kyun Jang et.al.|[2405.00571](http://arxiv.org/abs/2405.00571)|null|
 |**2024-04-30**|**Large Language Model Informed Patent Image Retrieval**|Hao-Cheng Lo et.al.|[2404.19360](http://arxiv.org/abs/2404.19360)|null|
 |**2024-04-30**|**XFeat: Accelerated Features for Lightweight Image Matching**|Guilherme Potje et.al.|[2404.19174](http://arxiv.org/abs/2404.19174)|null|
@@ -1941,9 +1945,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-05**|**Blending Distributed NeRFs with Tri-stage Robust Pose Optimization**|Baijun Ye et.al.|[2405.02880](http://arxiv.org/abs/2405.02880)|null|
+|**2024-05-05**|**MVIP-NeRF: Multi-view 3D Inpainting on NeRF Scenes via Diffusion Prior**|Honghua Chen et.al.|[2405.02859](http://arxiv.org/abs/2405.02859)|null|
+|**2024-05-04**|**TK-Planes: Tiered K-Planes with High Dimensional Feature Vectors for Dynamic UAV-based Scenes**|Christopher Maxey et.al.|[2405.02762](http://arxiv.org/abs/2405.02762)|null|
+|**2024-05-04**|**ActiveNeuS: Active 3D Reconstruction using Neural Implicit Surface Uncertainty**|Hyunseo Kim et.al.|[2405.02568](http://arxiv.org/abs/2405.02568)|null|
+|**2024-05-03**|**Learning Robot Soccer from Egocentric Vision with Deep Reinforcement Learning**|Dhruva Tirumala et.al.|[2405.02425](http://arxiv.org/abs/2405.02425)|null|
+|**2024-05-03**|**Rip-NeRF: Anti-aliasing Radiance Fields with Ripmap-Encoded Platonic Solids**|Junchen Liu et.al.|[2405.02386](http://arxiv.org/abs/2405.02386)|**[link](https://github.com/junchenliu77/rip-nerf)**|
 |**2024-05-03**|**WateRF: Robust Watermarks in Radiance Fields for Protection of Copyrights**|Youngdong Jang et.al.|[2405.02066](http://arxiv.org/abs/2405.02066)|null|
 |**2024-05-02**|**NeRF in Robotics: A Survey**|Guangming Wang et.al.|[2405.01333](http://arxiv.org/abs/2405.01333)|null|
-|**2024-05-01**|**DiL-NeRF: Delving into Lidar for Neural Radiance Field on Street Scenes**|Shanlin Sun et.al.|[2405.00900](http://arxiv.org/abs/2405.00900)|null|
+|**2024-05-04**|**LidaRF: Delving into Lidar for Neural Radiance Field on Street Scenes**|Shanlin Sun et.al.|[2405.00900](http://arxiv.org/abs/2405.00900)|null|
 |**2024-05-01**|**Depth Priors in Removal Neural Radiance Fields**|Zhihao Guo et.al.|[2405.00630](http://arxiv.org/abs/2405.00630)|null|
 |**2024-05-01**|**NeRF-Guided Unsupervised Learning of RGB-D Registration**|Zhinan Yu et.al.|[2405.00507](http://arxiv.org/abs/2405.00507)|null|
 |**2024-05-01**|**RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting**|Zhexi Peng et.al.|[2404.19706](http://arxiv.org/abs/2404.19706)|null|
