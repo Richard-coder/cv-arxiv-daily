@@ -28,13 +28,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**LoopSparseGS: Loop Based Sparse-View Friendly Gaussian Splatting**|Zhenyu Bao et.al.|[2408.00254](http://arxiv.org/abs/2408.00254)|null|
 |**2024-07-29**|**Global Structure-from-Motion Revisited**|Linfei Pan et.al.|[2407.20219](http://arxiv.org/abs/2407.20219)|**[link](https://github.com/colmap/glomap)**|
 |**2024-07-27**|**Revisit Self-supervised Depth Estimation with Local Structure-from-Motion**|Shengjie Zhu et.al.|[2407.19166](http://arxiv.org/abs/2407.19166)|null|
 |**2024-07-16**|**NeuSurfEmb: A Complete Pipeline for Dense Correspondence-based 6D Object Pose Estimation without CAD Models**|Francesco Milano et.al.|[2407.12207](http://arxiv.org/abs/2407.12207)|**[link](https://github.com/ethz-asl/neusurfemb)**|
 |**2024-07-15**|**LVCP: LiDAR-Vision Tightly Coupled Collaborative Real-time Relative Positioning**|Zhuozhu Jian et.al.|[2407.10782](http://arxiv.org/abs/2407.10782)|null|
 |**2024-07-15**|**Towards Scale-Aware Full Surround Monodepth with Transformers**|Yuchen Yang et.al.|[2407.10406](http://arxiv.org/abs/2407.10406)|null|
 |**2024-07-14**|**3DEgo: 3D Editing on the Go!**|Umar Khalid et.al.|[2407.10102](http://arxiv.org/abs/2407.10102)|null|
-|**2024-07-10**|**Hybrid Structure-from-Motion and Camera Relocalization for Enhanced Egocentric Localization**|Jinjie Mai et.al.|[2407.08023](http://arxiv.org/abs/2407.08023)|**[link](https://github.com/wayne-mai/egoloc_v1)**|
 
 ## Visual Localization
 
@@ -52,13 +52,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**|Xusheng Luo et.al.|[2408.00117](http://arxiv.org/abs/2408.00117)|null|
 |**2024-07-26**|**SHIC: Shape-Image Correspondences with no Keypoint Supervision**|Aleksandar Shtedritski et.al.|[2407.18907](http://arxiv.org/abs/2407.18907)|null|
 |**2024-07-25**|**LION: Linear Group RNN for 3D Object Detection in Point Clouds**|Zhe Liu et.al.|[2407.18232](http://arxiv.org/abs/2407.18232)|**[link](https://github.com/happinesslz/LION)**|
 |**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
 |**2024-07-09**|**LVLM-empowered Multi-modal Representation Learning for Visual Place Recognition**|Teng Wang et.al.|[2407.06730](http://arxiv.org/abs/2407.06730)|null|
 |**2024-07-04**|**PFGS: High Fidelity Point Cloud Rendering via Feature Splatting**|Jiaxu Wang et.al.|[2407.03857](http://arxiv.org/abs/2407.03857)|**[link](https://github.com/Mercerai/PFGS)**|
 |**2024-07-03**|**A Radiometric Correction based Optical Modeling Approach to Removing Reflection Noise in TLS Point Clouds of Urban Scenes**|Li Fang et.al.|[2407.02830](http://arxiv.org/abs/2407.02830)|**[link](https://github.com/tsuiky/3drn)**|
-|**2024-07-02**|**Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning**|Chengchao Shen et.al.|[2407.02014](http://arxiv.org/abs/2407.02014)|**[link](https://github.com/visresearch/mgc)**|
 
 ## Image Matching
 
@@ -76,13 +76,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**StyleRF-VolVis: Style Transfer of Neural Radiance Fields for Expressive Volume Visualization**|Kaiyuan Tang et.al.|[2408.00150](http://arxiv.org/abs/2408.00150)|null|
 |**2024-07-22**|**PAV: Personalized Head Avatar from Unstructured Video Collection**|Akin Caliskan et.al.|[2407.21047](http://arxiv.org/abs/2407.21047)|null|
 |**2024-07-30**|**Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**|Yanpeng Zhao et.al.|[2407.20908](http://arxiv.org/abs/2407.20908)|**[link](https://github.com/zyp123494/dynavol)**|
 |**2024-07-29**|**Radiance Fields for Robotic Teleoperation**|Maximum Wilder-Smith et.al.|[2407.20194](http://arxiv.org/abs/2407.20194)|**[link](https://github.com/leggedrobotics/rf_ros)**|
 |**2024-07-29**|**Garment Animation NeRF with Color Editing**|Renke Wang et.al.|[2407.19774](http://arxiv.org/abs/2407.19774)|**[link](https://github.com/wrk226/garmentanimationnerf)**|
 |**2024-07-27**|**Revisit Self-supervised Depth Estimation with Local Structure-from-Motion**|Shengjie Zhu et.al.|[2407.19166](http://arxiv.org/abs/2407.19166)|null|
 |**2024-07-26**|**IOVS4NeRF:Incremental Optimal View Selection for Large-Scale NeRFs**|Jingpeng Xie et.al.|[2407.18611](http://arxiv.org/abs/2407.18611)|null|
-|**2024-07-24**|**SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**|Yiming Xie et.al.|[2407.17470](http://arxiv.org/abs/2407.17470)|null|
 
 ## SLAM
 
@@ -568,6 +568,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**LoopSparseGS: Loop Based Sparse-View Friendly Gaussian Splatting**|Zhenyu Bao et.al.|[2408.00254](http://arxiv.org/abs/2408.00254)|null|
 |**2024-07-29**|**Global Structure-from-Motion Revisited**|Linfei Pan et.al.|[2407.20219](http://arxiv.org/abs/2407.20219)|**[link](https://github.com/colmap/glomap)**|
 |**2024-07-27**|**Revisit Self-supervised Depth Estimation with Local Structure-from-Motion**|Shengjie Zhu et.al.|[2407.19166](http://arxiv.org/abs/2407.19166)|null|
 |**2024-07-16**|**NeuSurfEmb: A Complete Pipeline for Dense Correspondence-based 6D Object Pose Estimation without CAD Models**|Francesco Milano et.al.|[2407.12207](http://arxiv.org/abs/2407.12207)|**[link](https://github.com/ethz-asl/neusurfemb)**|
@@ -1637,6 +1638,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**|Xusheng Luo et.al.|[2408.00117](http://arxiv.org/abs/2408.00117)|null|
 |**2024-07-26**|**SHIC: Shape-Image Correspondences with no Keypoint Supervision**|Aleksandar Shtedritski et.al.|[2407.18907](http://arxiv.org/abs/2407.18907)|null|
 |**2024-07-25**|**LION: Linear Group RNN for 3D Object Detection in Point Clouds**|Zhe Liu et.al.|[2407.18232](http://arxiv.org/abs/2407.18232)|**[link](https://github.com/happinesslz/LION)**|
 |**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
@@ -2124,6 +2126,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**StyleRF-VolVis: Style Transfer of Neural Radiance Fields for Expressive Volume Visualization**|Kaiyuan Tang et.al.|[2408.00150](http://arxiv.org/abs/2408.00150)|null|
 |**2024-07-22**|**PAV: Personalized Head Avatar from Unstructured Video Collection**|Akin Caliskan et.al.|[2407.21047](http://arxiv.org/abs/2407.21047)|null|
 |**2024-07-30**|**Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**|Yanpeng Zhao et.al.|[2407.20908](http://arxiv.org/abs/2407.20908)|**[link](https://github.com/zyp123494/dynavol)**|
 |**2024-07-29**|**Radiance Fields for Robotic Teleoperation**|Maximum Wilder-Smith et.al.|[2407.20194](http://arxiv.org/abs/2407.20194)|**[link](https://github.com/leggedrobotics/rf_ros)**|
