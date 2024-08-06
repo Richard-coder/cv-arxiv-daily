@@ -16,37 +16,37 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-03**|**Deep Patch Visual SLAM**|Lahav Lipson et.al.|[2408.01654](http://arxiv.org/abs/2408.01654)|null|
 |**2024-07-25**|**CodedVO: Coded Visual Odometry**|Sachin Shah et.al.|[2407.18240](http://arxiv.org/abs/2407.18240)|null|
 |**2024-07-22**|**Reinforcement Learning Meets Visual Odometry**|Nico Messikommer et.al.|[2407.15626](http://arxiv.org/abs/2407.15626)|**[link](https://github.com/uzh-rpg/rl_vo)**|
 |**2024-07-21**|**Semi-Supervised Pipe Video Temporal Defect Interval Localization**|Zhu Huang et.al.|[2407.15170](http://arxiv.org/abs/2407.15170)|null|
 |**2024-07-18**|**Attenuation-Aware Weighted Optical Flow with Medium Transmission Map for Learning-based Visual Odometry in Underwater terrain**|Bach Nguyen Gia et.al.|[2407.13159](http://arxiv.org/abs/2407.13159)|**[link](https://github.com/bachzz/wflow-tartanvo)**|
 |**2024-07-17**|**Is That Rain? Understanding Effects on Visual Odometry Performance for Autonomous UAVs and Efficient DNN-based Rain Classification at the Edge**|Andrea Albanese et.al.|[2407.12663](http://arxiv.org/abs/2407.12663)|null|
 |**2024-07-01**|**Preserving Relative Localization of FoV-Limited Drone Swarm via Active Mutual Observation**|Lianjie Guo et.al.|[2407.01292](http://arxiv.org/abs/2407.01292)|**[link](https://github.com/zju-fast-lab/active-relative-localization)**|
-|**2024-07-25**|**Imperative Learning: A Self-supervised Neural-Symbolic Learning Framework for Robot Autonomy**|Chen Wang et.al.|[2406.16087](http://arxiv.org/abs/2406.16087)|null|
 
 ## SFM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-04**|**Birational geometry of critical loci in Algebraic Vision**|Marina Bertolini et.al.|[2408.02067](http://arxiv.org/abs/2408.02067)|null|
+|**2024-08-04**|**PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone**|Xin Yang et.al.|[2408.02053](http://arxiv.org/abs/2408.02053)|null|
 |**2024-08-02**|**Structure from Motion-based Motion Estimation and 3D Reconstruction of Unknown Shaped Space Debris**|Kentaro Uno et.al.|[2408.01035](http://arxiv.org/abs/2408.01035)|null|
 |**2024-08-01**|**LoopSparseGS: Loop Based Sparse-View Friendly Gaussian Splatting**|Zhenyu Bao et.al.|[2408.00254](http://arxiv.org/abs/2408.00254)|null|
 |**2024-07-29**|**Global Structure-from-Motion Revisited**|Linfei Pan et.al.|[2407.20219](http://arxiv.org/abs/2407.20219)|**[link](https://github.com/colmap/glomap)**|
 |**2024-07-27**|**Revisit Self-supervised Depth Estimation with Local Structure-from-Motion**|Shengjie Zhu et.al.|[2407.19166](http://arxiv.org/abs/2407.19166)|null|
 |**2024-07-16**|**NeuSurfEmb: A Complete Pipeline for Dense Correspondence-based 6D Object Pose Estimation without CAD Models**|Francesco Milano et.al.|[2407.12207](http://arxiv.org/abs/2407.12207)|**[link](https://github.com/ethz-asl/neusurfemb)**|
-|**2024-07-15**|**LVCP: LiDAR-Vision Tightly Coupled Collaborative Real-time Relative Positioning**|Zhuozhu Jian et.al.|[2407.10782](http://arxiv.org/abs/2407.10782)|null|
-|**2024-07-15**|**Towards Scale-Aware Full Surround Monodepth with Transformers**|Yuchen Yang et.al.|[2407.10406](http://arxiv.org/abs/2407.10406)|null|
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394](http://arxiv.org/abs/2408.02394)|null|
+|**2024-08-03**|**BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles**|Lun Luo et.al.|[2408.01841](http://arxiv.org/abs/2408.01841)|null|
+|**2024-08-02**|**On Validation of Search & Retrieval of Tissue Images in Digital Pathology**|H. R. Tizhoosh et.al.|[2408.01570](http://arxiv.org/abs/2408.01570)|null|
 |**2024-07-31**|**VIPeR: Visual Incremental Place Recognition with Adaptive Mining and Lifelong Learning**|Yuhang Ming et.al.|[2407.21416](http://arxiv.org/abs/2407.21416)|null|
 |**2024-07-31**|**SuperVINS: A visual-inertial SLAM framework integrated deep learning features**|Hongkun Luo et.al.|[2407.21348](http://arxiv.org/abs/2407.21348)|null|
 |**2024-07-30**|**Re-localization acceleration with Medoid Silhouette Clustering**|Hongyi Zhang et.al.|[2407.20749](http://arxiv.org/abs/2407.20749)|null|
 |**2024-07-29**|**A flexible framework for accurate LiDAR odometry, map manipulation, and localization**|José Luis Blanco-Claraco et.al.|[2407.20465](http://arxiv.org/abs/2407.20465)|null|
-|**2024-07-26**|**From 2D to 3D: AISG-SLA Visual Localization Challenge**|Jialin Gao et.al.|[2407.18590](http://arxiv.org/abs/2407.18590)|null|
-|**2024-07-24**|**Revolutionizing Text-to-Image Retrieval as Autoregressive Token-to-Voken Generation**|Yongqi Li et.al.|[2407.17274](http://arxiv.org/abs/2407.17274)|null|
-|**2024-07-24**|**Active Loop Closure for OSM-guided Robotic Mapping in Large-Scale Urban Environments**|Wei Gao et.al.|[2407.17078](http://arxiv.org/abs/2407.17078)|null|
 
 ## Keypoint Detection
 
@@ -64,30 +64,31 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-04**|**Improving Neural Surface Reconstruction with Feature Priors from Multi-View Image**|Xinlin Ren et.al.|[2408.02079](http://arxiv.org/abs/2408.02079)|null|
 |**2024-07-29**|**Image-text matching for large-scale book collections**|Artemis Llabrés et.al.|[2407.19812](http://arxiv.org/abs/2407.19812)|**[link](https://github.com/llabres/library-dataset)**|
 |**2024-07-26**|**PIV3CAMS: a multi-camera dataset for multiple computer vision problems and its application to novel view-point synthesis**|Sohyeong Kim et.al.|[2407.18695](http://arxiv.org/abs/2407.18695)|null|
 |**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
 |**2024-07-17**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736](http://arxiv.org/abs/2407.11736)|**[link](https://github.com/jarvisyjw/gv-bench)**|
 |**2024-07-16**|**REMM:Rotation-Equivariant Framework for End-to-End Multimodal Image Matching**|Han Nie et.al.|[2407.11637](http://arxiv.org/abs/2407.11637)|**[link](https://github.com/hanniewhu/remm)**|
 |**2024-07-16**|**A Self-Correcting Strategy of the Digital Volume Correlation Displacement Field Based on Image Matching: Application to Poor Speckles Quality and Complex-Large Deformation**|Chengsheng Li et.al.|[2407.11287](http://arxiv.org/abs/2407.11287)|null|
-|**2024-07-14**|**Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching**|Xiaoyong Lu et.al.|[2407.07789](http://arxiv.org/abs/2407.07789)|null|
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-04**|**PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone**|Xin Yang et.al.|[2408.02053](http://arxiv.org/abs/2408.02053)|null|
+|**2024-08-03**|**FBINeRF: Feature-Based Integrated Recurrent Network for Pinhole and Fisheye Neural Radiance Fields**|Yifan Wu et.al.|[2408.01878](http://arxiv.org/abs/2408.01878)|null|
+|**2024-08-03**|**E $^3$ NeRF: Efficient Event-Enhanced Neural Radiance Fields from Blurry Images**|Yunshan Qi et.al.|[2408.01840](http://arxiv.org/abs/2408.01840)|null|
 |**2024-08-02**|**NeRFoot: Robot-Footprint Estimation for Image-Based Visual Servoing**|Daoxin Zhong et.al.|[2408.01251](http://arxiv.org/abs/2408.01251)|null|
-|**2024-08-01**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo et.al.|[2408.00860](http://arxiv.org/abs/2408.00860)|null|
+|**2024-08-05**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo et.al.|[2408.00860](http://arxiv.org/abs/2408.00860)|null|
 |**2024-07-31**|**StyleRF-VolVis: Style Transfer of Neural Radiance Fields for Expressive Volume Visualization**|Kaiyuan Tang et.al.|[2408.00150](http://arxiv.org/abs/2408.00150)|null|
 |**2024-07-22**|**PAV: Personalized Head Avatar from Unstructured Video Collection**|Akin Caliskan et.al.|[2407.21047](http://arxiv.org/abs/2407.21047)|null|
-|**2024-07-30**|**Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**|Yanpeng Zhao et.al.|[2407.20908](http://arxiv.org/abs/2407.20908)|**[link](https://github.com/zyp123494/dynavol)**|
-|**2024-07-29**|**Radiance Fields for Robotic Teleoperation**|Maximum Wilder-Smith et.al.|[2407.20194](http://arxiv.org/abs/2407.20194)|**[link](https://github.com/leggedrobotics/rf_ros)**|
-|**2024-07-29**|**Garment Animation NeRF with Color Editing**|Renke Wang et.al.|[2407.19774](http://arxiv.org/abs/2407.19774)|**[link](https://github.com/wrk226/garmentanimationnerf)**|
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-03**|**Deep Patch Visual SLAM**|Lahav Lipson et.al.|[2408.01654](http://arxiv.org/abs/2408.01654)|null|
 |**2024-07-25**|**CodedVO: Coded Visual Odometry**|Sachin Shah et.al.|[2407.18240](http://arxiv.org/abs/2407.18240)|null|
 |**2024-07-22**|**Reinforcement Learning Meets Visual Odometry**|Nico Messikommer et.al.|[2407.15626](http://arxiv.org/abs/2407.15626)|**[link](https://github.com/uzh-rpg/rl_vo)**|
 |**2024-07-21**|**Semi-Supervised Pipe Video Temporal Defect Interval Localization**|Zhu Huang et.al.|[2407.15170](http://arxiv.org/abs/2407.15170)|null|
@@ -568,6 +569,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-04**|**Birational geometry of critical loci in Algebraic Vision**|Marina Bertolini et.al.|[2408.02067](http://arxiv.org/abs/2408.02067)|null|
+|**2024-08-04**|**PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone**|Xin Yang et.al.|[2408.02053](http://arxiv.org/abs/2408.02053)|null|
 |**2024-08-02**|**Structure from Motion-based Motion Estimation and 3D Reconstruction of Unknown Shaped Space Debris**|Kentaro Uno et.al.|[2408.01035](http://arxiv.org/abs/2408.01035)|null|
 |**2024-08-01**|**LoopSparseGS: Loop Based Sparse-View Friendly Gaussian Splatting**|Zhenyu Bao et.al.|[2408.00254](http://arxiv.org/abs/2408.00254)|null|
 |**2024-07-29**|**Global Structure-from-Motion Revisited**|Linfei Pan et.al.|[2407.20219](http://arxiv.org/abs/2407.20219)|**[link](https://github.com/colmap/glomap)**|
@@ -784,6 +787,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394](http://arxiv.org/abs/2408.02394)|null|
+|**2024-08-03**|**BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles**|Lun Luo et.al.|[2408.01841](http://arxiv.org/abs/2408.01841)|null|
+|**2024-08-02**|**On Validation of Search & Retrieval of Tissue Images in Digital Pathology**|H. R. Tizhoosh et.al.|[2408.01570](http://arxiv.org/abs/2408.01570)|null|
 |**2024-07-31**|**VIPeR: Visual Incremental Place Recognition with Adaptive Mining and Lifelong Learning**|Yuhang Ming et.al.|[2407.21416](http://arxiv.org/abs/2407.21416)|null|
 |**2024-07-31**|**SuperVINS: A visual-inertial SLAM framework integrated deep learning features**|Hongkun Luo et.al.|[2407.21348](http://arxiv.org/abs/2407.21348)|null|
 |**2024-07-30**|**Re-localization acceleration with Medoid Silhouette Clustering**|Hongyi Zhang et.al.|[2407.20749](http://arxiv.org/abs/2407.20749)|null|
@@ -1878,6 +1884,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-04**|**Improving Neural Surface Reconstruction with Feature Priors from Multi-View Image**|Xinlin Ren et.al.|[2408.02079](http://arxiv.org/abs/2408.02079)|null|
 |**2024-07-29**|**Image-text matching for large-scale book collections**|Artemis Llabrés et.al.|[2407.19812](http://arxiv.org/abs/2407.19812)|**[link](https://github.com/llabres/library-dataset)**|
 |**2024-07-26**|**PIV3CAMS: a multi-camera dataset for multiple computer vision problems and its application to novel view-point synthesis**|Sohyeong Kim et.al.|[2407.18695](http://arxiv.org/abs/2407.18695)|null|
 |**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
@@ -2127,8 +2134,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-04**|**PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone**|Xin Yang et.al.|[2408.02053](http://arxiv.org/abs/2408.02053)|null|
+|**2024-08-03**|**FBINeRF: Feature-Based Integrated Recurrent Network for Pinhole and Fisheye Neural Radiance Fields**|Yifan Wu et.al.|[2408.01878](http://arxiv.org/abs/2408.01878)|null|
+|**2024-08-03**|**E $^3$ NeRF: Efficient Event-Enhanced Neural Radiance Fields from Blurry Images**|Yunshan Qi et.al.|[2408.01840](http://arxiv.org/abs/2408.01840)|null|
 |**2024-08-02**|**NeRFoot: Robot-Footprint Estimation for Image-Based Visual Servoing**|Daoxin Zhong et.al.|[2408.01251](http://arxiv.org/abs/2408.01251)|null|
-|**2024-08-01**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo et.al.|[2408.00860](http://arxiv.org/abs/2408.00860)|null|
+|**2024-08-05**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo et.al.|[2408.00860](http://arxiv.org/abs/2408.00860)|null|
 |**2024-07-31**|**StyleRF-VolVis: Style Transfer of Neural Radiance Fields for Expressive Volume Visualization**|Kaiyuan Tang et.al.|[2408.00150](http://arxiv.org/abs/2408.00150)|null|
 |**2024-07-22**|**PAV: Personalized Head Avatar from Unstructured Video Collection**|Akin Caliskan et.al.|[2407.21047](http://arxiv.org/abs/2407.21047)|null|
 |**2024-07-30**|**Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**|Yanpeng Zhao et.al.|[2407.20908](http://arxiv.org/abs/2407.20908)|**[link](https://github.com/zyp123494/dynavol)**|
