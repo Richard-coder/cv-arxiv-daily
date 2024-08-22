@@ -48,13 +48,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation**|Xiangyu Zhao et.al.|[2408.11305](http://arxiv.org/abs/2408.11305)|**[link](https://github.com/xiangyu-mm/unifashion)**|
+|**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|null|
 |**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
 |**2024-08-19**|**Fashion Image-to-Image Translation for Complementary Item Retrieval**|Matteo Attimonelli et.al.|[2408.09847](http://arxiv.org/abs/2408.09847)|null|
 |**2024-08-20**|**MambaLoc: Efficient Camera Localisation via State Space Model**|Jialu Wang et.al.|[2408.09680](http://arxiv.org/abs/2408.09680)|null|
 |**2024-08-15**|**DM2RM: Dual-Mode Multimodal Ranking for Target Objects and Receptacles Based on Open-Vocabulary Instructions**|Ryosuke Korekata et.al.|[2408.07910](http://arxiv.org/abs/2408.07910)|null|
 |**2024-08-13**|**A Miniature Vision-Based Localization System for Indoor Blimps**|Shicong Ma et.al.|[2408.06648](http://arxiv.org/abs/2408.06648)|null|
-|**2024-08-10**|**Cross-view image geo-localization with Panorama-BEV Co-Retrieval Network**|Junyan Ye et.al.|[2408.05475](http://arxiv.org/abs/2408.05475)|**[link](https://github.com/yejy53/ep-bev)**|
-|**2024-08-09**|**Spherical World-Locking for Audio-Visual Localization in Egocentric Videos**|Heeseung Yun et.al.|[2408.05364](http://arxiv.org/abs/2408.05364)|null|
 
 ## Keypoint Detection
 
@@ -84,13 +84,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Irregularity Inspection using Neural Radiance Field**|Tianqi Ding et.al.|[2408.11251](http://arxiv.org/abs/2408.11251)|null|
+|**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|null|
 |**2024-08-20**|**Learning Part-aware 3D Representations by Fusing 2D Gaussians and Superquadrics**|Zhirui Gao et.al.|[2408.10789](http://arxiv.org/abs/2408.10789)|null|
 |**2024-08-20**|**TrackNeRF: Bundle Adjusting NeRF from Sparse and Noisy Views via Feature Tracks**|Jinjie Mai et.al.|[2408.10739](http://arxiv.org/abs/2408.10739)|null|
 |**2024-08-19**|**$R^2$ -Mesh: Reinforcement Learning Powered Mesh Reconstruction via Geometry and Appearance Refinement**|Haoyang Wang et.al.|[2408.10135](http://arxiv.org/abs/2408.10135)|null|
 |**2024-08-19**|**DiscoNeRF: Class-Agnostic Object Field for 3D Object Discovery**|Corentin Dumery et.al.|[2408.09928](http://arxiv.org/abs/2408.09928)|null|
 |**2024-08-20**|**CHASE: 3D-Consistent Human Avatars with Sparse Inputs via Gaussian Splatting and Contrastive Learning**|Haoyu Zhao et.al.|[2408.09663](http://arxiv.org/abs/2408.09663)|null|
-|**2024-08-18**|**S^3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis**|Dongze Li et.al.|[2408.09347](http://arxiv.org/abs/2408.09347)|null|
-|**2024-08-17**|**SSNeRF: Sparse View Semi-supervised Neural Radiance Fields with Augmentation**|Xiao Cao et.al.|[2408.09144](http://arxiv.org/abs/2408.09144)|null|
 
 ## SLAM
 
@@ -804,6 +804,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation**|Xiangyu Zhao et.al.|[2408.11305](http://arxiv.org/abs/2408.11305)|**[link](https://github.com/xiangyu-mm/unifashion)**|
+|**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|null|
 |**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
 |**2024-08-19**|**Fashion Image-to-Image Translation for Complementary Item Retrieval**|Matteo Attimonelli et.al.|[2408.09847](http://arxiv.org/abs/2408.09847)|null|
 |**2024-08-20**|**MambaLoc: Efficient Camera Localisation via State Space Model**|Jialu Wang et.al.|[2408.09680](http://arxiv.org/abs/2408.09680)|null|
@@ -2171,6 +2173,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Irregularity Inspection using Neural Radiance Field**|Tianqi Ding et.al.|[2408.11251](http://arxiv.org/abs/2408.11251)|null|
+|**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|null|
 |**2024-08-20**|**Learning Part-aware 3D Representations by Fusing 2D Gaussians and Superquadrics**|Zhirui Gao et.al.|[2408.10789](http://arxiv.org/abs/2408.10789)|null|
 |**2024-08-20**|**TrackNeRF: Bundle Adjusting NeRF from Sparse and Noisy Views via Feature Tracks**|Jinjie Mai et.al.|[2408.10739](http://arxiv.org/abs/2408.10739)|null|
 |**2024-08-19**|**$R^2$ -Mesh: Reinforcement Learning Powered Mesh Reconstruction via Geometry and Appearance Refinement**|Haoyang Wang et.al.|[2408.10135](http://arxiv.org/abs/2408.10135)|null|
