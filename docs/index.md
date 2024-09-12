@@ -76,13 +76,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
+|**2024-09-11**|**ThermalGaussian: Thermal 3D Gaussian Splatting**|Rongfeng Lu et.al.|[2409.07200](http://arxiv.org/abs/2409.07200)|null|
 |**2024-09-10**|**LEIA: Latent View-invariant Embeddings for Implicit 3D Articulation**|Archana Swaminathan et.al.|[2409.06703](http://arxiv.org/abs/2409.06703)|null|
 |**2024-09-10**|**Sources of Uncertainty in 3D Scene Reconstruction**|Marcus Klasson et.al.|[2409.06407](http://arxiv.org/abs/2409.06407)|**[link](https://github.com/aaltoml/uncertainty-nerf-gs)**|
 |**2024-09-09**|**LSE-NeRF: Learning Sensor Modeling Errors for Deblured Neural Radiance Fields with RGB-Event Stereo**|Wei Zhi Tang et.al.|[2409.06104](http://arxiv.org/abs/2409.06104)|null|
 |**2024-09-09**|**G-NeLF: Memory- and Data-Efficient Hybrid Neural Light Field for Novel View Synthesis**|Lutao Jiang et.al.|[2409.05617](http://arxiv.org/abs/2409.05617)|null|
 |**2024-09-09**|**From Words to Poses: Enhancing Novel Object Pose Estimation with Vision Language Models**|Tessa Pulli et.al.|[2409.05413](http://arxiv.org/abs/2409.05413)|null|
-|**2024-09-09**|**KRONC: Keypoint-based Robust Camera Optimization for 3D Car Reconstruction**|Davide Di Nucci et.al.|[2409.05407](http://arxiv.org/abs/2409.05407)|null|
-|**2024-09-09**|**Lagrangian Hashing for Compressed Neural Field Representations**|Shrisudhan Govindarajan et.al.|[2409.05334](http://arxiv.org/abs/2409.05334)|null|
 
 ## SLAM
 
@@ -1947,7 +1947,7 @@ layout: default
 |**2024-08-29**|**Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**|Sierra Bonilla et.al.|[2408.16445](http://arxiv.org/abs/2408.16445)|**[link](https://github.com/surgical-vision/colmap-match-converter)**|
 |**2024-08-26**|**Affine steerers for structured keypoint description**|Georg Bökman et.al.|[2408.14186](http://arxiv.org/abs/2408.14186)|**[link](https://github.com/georg-bn/affine-steerers)**|
 |**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770](http://arxiv.org/abs/2408.13770)|null|
-|**2024-08-15**|**Coarse-to-fine Alignment Makes Better Speech-image Retrieval**|Lifeng Zhou et.al.|[2408.13119](http://arxiv.org/abs/2408.13119)|null|
+|**2024-09-11**|**Coarse-to-fine Alignment Makes Better Speech-image Retrieval**|Lifeng Zhou et.al.|[2408.13119](http://arxiv.org/abs/2408.13119)|null|
 |**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
 |**2024-08-14**|**RSD-DOG : A New Image Descriptor based on Second Order Derivatives**|Darshan Venkatrayappa et.al.|[2408.07687](http://arxiv.org/abs/2408.07687)|null|
 |**2024-08-09**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823](http://arxiv.org/abs/2408.04823)|**[link](https://github.com/d-iceice/one-shot-irsts)**|
@@ -2203,6 +2203,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
+|**2024-09-11**|**ThermalGaussian: Thermal 3D Gaussian Splatting**|Rongfeng Lu et.al.|[2409.07200](http://arxiv.org/abs/2409.07200)|null|
 |**2024-09-10**|**LEIA: Latent View-invariant Embeddings for Implicit 3D Articulation**|Archana Swaminathan et.al.|[2409.06703](http://arxiv.org/abs/2409.06703)|null|
 |**2024-09-10**|**Sources of Uncertainty in 3D Scene Reconstruction**|Marcus Klasson et.al.|[2409.06407](http://arxiv.org/abs/2409.06407)|**[link](https://github.com/aaltoml/uncertainty-nerf-gs)**|
 |**2024-09-09**|**LSE-NeRF: Learning Sensor Modeling Errors for Deblured Neural Radiance Fields with RGB-Event Stereo**|Wei Zhi Tang et.al.|[2409.06104](http://arxiv.org/abs/2409.06104)|null|
