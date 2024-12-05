@@ -16,13 +16,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu et.al.|[2412.03146](http://arxiv.org/abs/2412.03146)|null|
+|**2024-12-04**|**An indoor DSO-based ceiling-vision odometry system for indoor industrial environments**|Abdelhak Bougouffa et.al.|[2412.02950](http://arxiv.org/abs/2412.02950)|null|
 |**2024-11-21**|**InCrowd-VI: A Realistic Visual-Inertial Dataset for Evaluating SLAM in Indoor Pedestrian-Rich Spaces for Human Navigation**|Marziyeh Bamdad et.al.|[2411.14358](http://arxiv.org/abs/2411.14358)|null|
 |**2024-11-20**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany et.al.|[2411.13438](http://arxiv.org/abs/2411.13438)|null|
 |**2024-11-15**|**BEV-ODOM: Reducing Scale Drift in Monocular Visual Odometry with BEV Representation**|Yufei Wei et.al.|[2411.10195](http://arxiv.org/abs/2411.10195)|null|
 |**2024-11-24**|**Enhanced Monocular Visual Odometry with AR Poses and Integrated INS-GPS for Robust Localization in Urban Environments**|Ankit Shaw et.al.|[2411.08231](http://arxiv.org/abs/2411.08231)|null|
 |**2024-11-07**|**MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation**|Sayan Paul et.al.|[2411.04796](http://arxiv.org/abs/2411.04796)|null|
-|**2024-10-30**|**LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**|Yucheng Huang et.al.|[2410.23231](http://arxiv.org/abs/2410.23231)|**[link](https://github.com/uestc-nnlab/lgu-slam)**|
-|**2024-10-29**|**LiVisSfM: Accurate and Robust Structure-from-Motion with LiDAR and Visual Cues**|Hanqing Jiang et.al.|[2410.22213](http://arxiv.org/abs/2410.22213)|null|
 
 ## SFM
 
@@ -40,54 +40,56 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Distillation of Diffusion Features for Semantic Correspondence**|Frank Fundel et.al.|[2412.03512](http://arxiv.org/abs/2412.03512)|null|
+|**2024-12-04**|**Composed Image Retrieval for Training-Free Domain Conversion**|Nikos Efthymiadis et.al.|[2412.03297](http://arxiv.org/abs/2412.03297)|**[link](https://github.com/nikosefth/freedom)**|
+|**2024-12-03**|**A Minimalistic 3D Self-Organized UAV Flocking Approach for Desert Exploration**|Thulio Amorim et.al.|[2412.02881](http://arxiv.org/abs/2412.02881)|null|
 |**2024-12-03**|**Active Learning via Classifier Impact and Greedy Selection for Interactive Image Retrieval**|Leah Bar et.al.|[2412.02310](http://arxiv.org/abs/2412.02310)|**[link](https://github.com/barleah/greedyal)**|
-|**2024-12-02**|**Mutli-View 3D Reconstruction using Knowledge Distillation**|Aditya Dutt et.al.|[2412.02039](http://arxiv.org/abs/2412.02039)|null|
+|**2024-12-02**|**Mutli-View 3D Reconstruction using Knowledge Distillation**|Aditya Dutt et.al.|[2412.02039](http://arxiv.org/abs/2412.02039)|**[link](https://github.com/ishikaalunawat/231aproj)**|
 |**2024-12-02**|**Optimizing Domain-Specific Image Retrieval: A Benchmark of FAISS and Annoy with Fine-Tuned Features**|MD Shaikh Rahman et.al.|[2412.01555](http://arxiv.org/abs/2412.01555)|null|
 |**2024-12-02**|**Neuron Abandoning Attention Flow: Visual Explanation of Dynamics inside CNN Models**|Yi Liao et.al.|[2412.01202](http://arxiv.org/abs/2412.01202)|null|
-|**2024-12-01**|**EDTformer: An Efficient Decoder Transformer for Visual Place Recognition**|Tong Jin et.al.|[2412.00784](http://arxiv.org/abs/2412.00784)|null|
-|**2024-11-28**|**EFSA: Episodic Few-Shot Adaptation for Text-to-Image Retrieval**|Muhammad Huzaifa et.al.|[2412.00139](http://arxiv.org/abs/2412.00139)|null|
-|**2024-11-28**|**Unleashing the Power of Data Synthesis in Visual Localization**|Sihang Li et.al.|[2412.00138](http://arxiv.org/abs/2412.00138)|null|
 
 ## Keypoint Detection
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Measure Anything: Real-time, Multi-stage Vision-based Dimensional Measurement using Segment Anything**|Yongkyu Lee et.al.|[2412.03472](http://arxiv.org/abs/2412.03472)|null|
 |**2024-12-02**|**MamKPD: A Simple Mamba Baseline for Real-Time 2D Keypoint Detection**|Yonghao Dang et.al.|[2412.01422](http://arxiv.org/abs/2412.01422)|null|
 |**2024-11-23**|**OCDet: Object Center Detection via Bounding Box-Aware Heatmap Prediction on Edge Devices with NPUs**|Chen Xin et.al.|[2411.15653](http://arxiv.org/abs/2411.15653)|**[link](https://github.com/chen-xin-94/ocdet)**|
 |**2024-11-19**|**IoT-Based 3D Pose Estimation and Motion Optimization for Athletes: Application of C3D and OpenPose**|Fei Ren et.al.|[2411.12676](http://arxiv.org/abs/2411.12676)|null|
 |**2024-11-04**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang et.al.|[2411.01851](http://arxiv.org/abs/2411.01851)|null|
 |**2024-11-04**|**KptLLM: Unveiling the Power of Large Language Model for Keypoint Comprehension**|Jie Yang et.al.|[2411.01846](http://arxiv.org/abs/2411.01846)|null|
 |**2024-10-31**|**From Web Data to Real Fields: Low-Cost Unsupervised Domain Adaptation for Agricultural Robots**|Vasileios Tzouras et.al.|[2410.23906](http://arxiv.org/abs/2410.23906)|null|
-|**2024-10-04**|**Self-Supervised Keypoint Detection with Distilled Depth Keypoint Representation**|Aman Anand et.al.|[2410.14700](http://arxiv.org/abs/2410.14700)|null|
 
 ## Image Matching
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Appearance Matching Adapter for Exemplar-based Semantic Image Synthesis**|Siyoon Jin et.al.|[2412.03150](http://arxiv.org/abs/2412.03150)|null|
 |**2024-11-20**|**DT-LSD: Deformable Transformer-based Line Segment Detection**|Sebastian Janampa et.al.|[2411.13005](http://arxiv.org/abs/2411.13005)|**[link](https://github.com/SebastianJanampa/DT-LSD)**|
 |**2024-11-15**|**Image Matching Filtering and Refinement by Planes and Beyond**|Fabio Bellavia et.al.|[2411.09484](http://arxiv.org/abs/2411.09484)|**[link](https://github.com/fb82/miho)**|
 |**2024-11-11**|**XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration**|Ismail Can Yagmur et.al.|[2411.07430](http://arxiv.org/abs/2411.07430)|**[link](https://github.com/canyagmur/xpoint)**|
 |**2024-11-07**|**The Impact of Semi-Supervised Learning on Line Segment Detection**|Johanna Engman et.al.|[2411.04596](http://arxiv.org/abs/2411.04596)|**[link](https://github.com/jo6815en/semi-lines)**|
 |**2024-11-04**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang et.al.|[2411.01851](http://arxiv.org/abs/2411.01851)|null|
 |**2024-10-30**|**Variable Resolution Sampling and Deep Learning Image Recovery for Accelerated Multi-Spectral MRI Near Metal Implants**|Azadeh Sharafi et.al.|[2410.23329](http://arxiv.org/abs/2410.23329)|null|
-|**2024-11-05**|**RelationBooth: Towards Relation-Aware Customized Object Generation**|Qingyu Shi et.al.|[2410.23280](http://arxiv.org/abs/2410.23280)|null|
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**NeRF and Gaussian Splatting SLAM in the Wild**|Fabian Schmidt et.al.|[2412.03263](http://arxiv.org/abs/2412.03263)|null|
 |**2024-12-01**|**SAGA: Surface-Aligned Gaussian Avatar**|Ronghan Chen et.al.|[2412.00845](http://arxiv.org/abs/2412.00845)|null|
 |**2024-12-01**|**CtrlNeRF: The Generative Neural Radiation Fields for the Controllable Synthesis of High-fidelity 3D-Aware Images**|Jian Liu et.al.|[2412.00754](http://arxiv.org/abs/2412.00754)|null|
 |**2024-11-30**|**Speedy-Splat: Fast 3D Gaussian Splatting with Sparse Pixels and Sparse Primitives**|Alex Hanson et.al.|[2412.00578](http://arxiv.org/abs/2412.00578)|null|
 |**2024-11-30**|**Instant3dit: Multiview Inpainting for Fast Editing of 3D Objects**|Amir Barda et.al.|[2412.00518](http://arxiv.org/abs/2412.00518)|null|
 |**2024-11-29**|**$C^{3}$ -NeRF: Modeling Multiple Scenes via Conditional-cum-Continual Neural Radiance Fields**|Prajwal Singh et.al.|[2411.19903](http://arxiv.org/abs/2411.19903)|null|
 |**2024-11-29**|**Gaussian Splashing: Direct Volumetric Rendering Underwater**|Nir Mualem et.al.|[2411.19588](http://arxiv.org/abs/2411.19588)|null|
-|**2024-11-29**|**ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration**|Chaojun Ni et.al.|[2411.19548](http://arxiv.org/abs/2411.19548)|null|
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu et.al.|[2412.03146](http://arxiv.org/abs/2412.03146)|null|
+|**2024-12-04**|**An indoor DSO-based ceiling-vision odometry system for indoor industrial environments**|Abdelhak Bougouffa et.al.|[2412.02950](http://arxiv.org/abs/2412.02950)|null|
 |**2024-11-21**|**InCrowd-VI: A Realistic Visual-Inertial Dataset for Evaluating SLAM in Indoor Pedestrian-Rich Spaces for Human Navigation**|Marziyeh Bamdad et.al.|[2411.14358](http://arxiv.org/abs/2411.14358)|null|
 |**2024-11-20**|**Robust Monocular Visual Odometry using Curriculum Learning**|Assaf Lahiany et.al.|[2411.13438](http://arxiv.org/abs/2411.13438)|null|
 |**2024-11-15**|**BEV-ODOM: Reducing Scale Drift in Monocular Visual Odometry with BEV Representation**|Yufei Wei et.al.|[2411.10195](http://arxiv.org/abs/2411.10195)|null|
@@ -852,8 +854,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Distillation of Diffusion Features for Semantic Correspondence**|Frank Fundel et.al.|[2412.03512](http://arxiv.org/abs/2412.03512)|null|
+|**2024-12-04**|**Composed Image Retrieval for Training-Free Domain Conversion**|Nikos Efthymiadis et.al.|[2412.03297](http://arxiv.org/abs/2412.03297)|**[link](https://github.com/nikosefth/freedom)**|
+|**2024-12-03**|**A Minimalistic 3D Self-Organized UAV Flocking Approach for Desert Exploration**|Thulio Amorim et.al.|[2412.02881](http://arxiv.org/abs/2412.02881)|null|
 |**2024-12-03**|**Active Learning via Classifier Impact and Greedy Selection for Interactive Image Retrieval**|Leah Bar et.al.|[2412.02310](http://arxiv.org/abs/2412.02310)|**[link](https://github.com/barleah/greedyal)**|
-|**2024-12-02**|**Mutli-View 3D Reconstruction using Knowledge Distillation**|Aditya Dutt et.al.|[2412.02039](http://arxiv.org/abs/2412.02039)|null|
+|**2024-12-02**|**Mutli-View 3D Reconstruction using Knowledge Distillation**|Aditya Dutt et.al.|[2412.02039](http://arxiv.org/abs/2412.02039)|**[link](https://github.com/ishikaalunawat/231aproj)**|
 |**2024-12-02**|**Optimizing Domain-Specific Image Retrieval: A Benchmark of FAISS and Annoy with Fine-Tuned Features**|MD Shaikh Rahman et.al.|[2412.01555](http://arxiv.org/abs/2412.01555)|null|
 |**2024-12-02**|**Neuron Abandoning Attention Flow: Visual Explanation of Dynamics inside CNN Models**|Yi Liao et.al.|[2412.01202](http://arxiv.org/abs/2412.01202)|null|
 |**2024-12-01**|**EDTformer: An Efficient Decoder Transformer for Visual Place Recognition**|Tong Jin et.al.|[2412.00784](http://arxiv.org/abs/2412.00784)|null|
@@ -1830,6 +1835,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Measure Anything: Real-time, Multi-stage Vision-based Dimensional Measurement using Segment Anything**|Yongkyu Lee et.al.|[2412.03472](http://arxiv.org/abs/2412.03472)|null|
 |**2024-12-02**|**MamKPD: A Simple Mamba Baseline for Real-Time 2D Keypoint Detection**|Yonghao Dang et.al.|[2412.01422](http://arxiv.org/abs/2412.01422)|null|
 |**2024-11-23**|**OCDet: Object Center Detection via Bounding Box-Aware Heatmap Prediction on Edge Devices with NPUs**|Chen Xin et.al.|[2411.15653](http://arxiv.org/abs/2411.15653)|**[link](https://github.com/chen-xin-94/ocdet)**|
 |**2024-11-19**|**IoT-Based 3D Pose Estimation and Motion Optimization for Athletes: Application of C3D and OpenPose**|Fei Ren et.al.|[2411.12676](http://arxiv.org/abs/2411.12676)|null|
@@ -2092,6 +2098,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Appearance Matching Adapter for Exemplar-based Semantic Image Synthesis**|Siyoon Jin et.al.|[2412.03150](http://arxiv.org/abs/2412.03150)|null|
 |**2024-11-20**|**DT-LSD: Deformable Transformer-based Line Segment Detection**|Sebastian Janampa et.al.|[2411.13005](http://arxiv.org/abs/2411.13005)|**[link](https://github.com/SebastianJanampa/DT-LSD)**|
 |**2024-11-15**|**Image Matching Filtering and Refinement by Planes and Beyond**|Fabio Bellavia et.al.|[2411.09484](http://arxiv.org/abs/2411.09484)|**[link](https://github.com/fb82/miho)**|
 |**2024-11-11**|**XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration**|Ismail Can Yagmur et.al.|[2411.07430](http://arxiv.org/abs/2411.07430)|**[link](https://github.com/canyagmur/xpoint)**|
@@ -2371,6 +2378,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**NeRF and Gaussian Splatting SLAM in the Wild**|Fabian Schmidt et.al.|[2412.03263](http://arxiv.org/abs/2412.03263)|null|
 |**2024-12-01**|**SAGA: Surface-Aligned Gaussian Avatar**|Ronghan Chen et.al.|[2412.00845](http://arxiv.org/abs/2412.00845)|null|
 |**2024-12-01**|**CtrlNeRF: The Generative Neural Radiation Fields for the Controllable Synthesis of High-fidelity 3D-Aware Images**|Jian Liu et.al.|[2412.00754](http://arxiv.org/abs/2412.00754)|null|
 |**2024-11-30**|**Speedy-Splat: Fast 3D Gaussian Splatting with Sparse Pixels and Sparse Primitives**|Alex Hanson et.al.|[2412.00578](http://arxiv.org/abs/2412.00578)|null|
