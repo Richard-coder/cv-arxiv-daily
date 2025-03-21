@@ -28,25 +28,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**From Monocular Vision to Autonomous Action: Guiding Tumor Resection via 3D Reconstruction**|Ayberk Acar et.al.|[2503.16263](http://arxiv.org/abs/2503.16263)|null|
 |**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982](http://arxiv.org/abs/2503.13982)|**[link](https://github.com/ais-lab/a-score)**|
 |**2025-03-17**|**Improving Geometric Consistency for 360-Degree Neural Radiance Fields in Indoor Scenarios**|Iryna Repinetska et.al.|[2503.13710](http://arxiv.org/abs/2503.13710)|null|
 |**2025-03-17**|**Gaussian On-the-Fly Splatting: A Progressive Framework for Robust Near Real-Time 3DGS Optimization**|Yiwei Xu et.al.|[2503.13086](http://arxiv.org/abs/2503.13086)|null|
 |**2025-03-11**|**A Framework for Reducing the Complexity of Geometric Vision Problems and its Application to Two-View Triangulation with Approximation Bounds**|Felix Rydell et.al.|[2503.08142](http://arxiv.org/abs/2503.08142)|null|
 |**2025-03-11**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347](http://arxiv.org/abs/2503.07347)|**[link](https://github.com/parskatt/dad)**|
 |**2025-03-18**|**Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**|Mona Sheikh Zeinoddin et.al.|[2503.07204](http://arxiv.org/abs/2503.07204)|null|
-|**2025-03-10**|**VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation**|Hanzhi Chen et.al.|[2503.07135](http://arxiv.org/abs/2503.07135)|null|
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**PromptHash: Affinity-Prompted Collaborative Cross-Modal Learning for Adaptive Hashing Retrieval**|Qiang Zou et.al.|[2503.16064](http://arxiv.org/abs/2503.16064)|**[link](https://github.com/ShiShuMo/PromptHash)**|
+|**2025-03-20**|**Automating 3D Dataset Generation with Neural Radiance Fields**|P. Schulz et.al.|[2503.15997](http://arxiv.org/abs/2503.15997)|null|
 |**2025-03-18**|**3D Densification for Multi-Map Monocular VSLAM in Endoscopy**|X. Anadón et.al.|[2503.14346](http://arxiv.org/abs/2503.14346)|null|
 |**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982](http://arxiv.org/abs/2503.13982)|**[link](https://github.com/ais-lab/a-score)**|
 |**2025-03-17**|**Scale Efficient Training for Large Datasets**|Qing Zhou et.al.|[2503.13385](http://arxiv.org/abs/2503.13385)|null|
 |**2025-03-17**|**Multi-Platform Teach-and-Repeat Navigation by Visual Place Recognition Based on Deep-Learned Local Features**|Václav Truhlařík et.al.|[2503.13090](http://arxiv.org/abs/2503.13090)|null|
 |**2025-03-17**|**All You Need to Know About Training Image Retrieval Models**|Gabriele Berton et.al.|[2503.13045](http://arxiv.org/abs/2503.13045)|null|
-|**2025-03-12**|**Exploring the best way for UAV visual localization under Low-altitude Multi-view Observation Condition: a Benchmark**|Yibin Ye et.al.|[2503.10692](http://arxiv.org/abs/2503.10692)|**[link](https://github.com/uav-avl/benchmark)**|
-|**2025-03-13**|**ImageScope: Unifying Language-Guided Image Retrieval via Large Multimodal Model Collective Reasoning**|Pengfei Luo et.al.|[2503.10166](http://arxiv.org/abs/2503.10166)|**[link](https://github.com/pengfei-luo/ImageScope)**|
 
 ## Keypoint Detection
 
@@ -64,25 +64,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors**|Tian Yi Lim et.al.|[2503.16275](http://arxiv.org/abs/2503.16275)|null|
+|**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185](http://arxiv.org/abs/2503.16185)|null|
 |**2025-03-19**|**PAPI-Reg: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image**|Yuanchao Yue et.al.|[2503.15285](http://arxiv.org/abs/2503.15285)|null|
 |**2025-03-17**|**Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**|Johan Edstedt et.al.|[2503.13433](http://arxiv.org/abs/2503.13433)|null|
 |**2025-03-17**|**SatDepth: A Novel Dataset for Satellite Image Matching**|Rahul Deshmukh et.al.|[2503.12706](http://arxiv.org/abs/2503.12706)|null|
 |**2025-03-14**|**Refining Image Edge Detection via Linear Canonical Riesz Transforms**|Shuhui Yang et.al.|[2503.11148](http://arxiv.org/abs/2503.11148)|null|
 |**2025-03-13**|**Speedy MASt3R**|Jingxing Li et.al.|[2503.10017](http://arxiv.org/abs/2503.10017)|null|
-|**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673](http://arxiv.org/abs/2503.08673)|null|
-|**2025-03-06**|**Learning 3D Medical Image Models From Brain Functional Connectivity Network Supervision For Mental Disorder Diagnosis**|Xingcan Hu et.al.|[2503.04205](http://arxiv.org/abs/2503.04205)|null|
 
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Enhancing Close-up Novel View Synthesis via Pseudo-labeling**|Jiatong Xia et.al.|[2503.15908](http://arxiv.org/abs/2503.15908)|null|
+|**2025-03-19**|**SPNeRF: Open Vocabulary 3D Neural Scene Segmentation with Superpoints**|Weiwen Hu et.al.|[2503.15712](http://arxiv.org/abs/2503.15712)|null|
+|**2025-03-19**|**DiffPortrait360: Consistent Portrait Diffusion for 360 View Synthesis**|Yuming Gu et.al.|[2503.15667](http://arxiv.org/abs/2503.15667)|null|
 |**2025-03-19**|**GO-N3RDet: Geometry Optimized NeRF-enhanced 3D Object Detector**|Zechuan Li et.al.|[2503.15211](http://arxiv.org/abs/2503.15211)|null|
 |**2025-03-19**|**MultiBARF: Integrating Imagery of Different Wavelength Regions by Using Neural Radiance Fields**|Kana Kurata et.al.|[2503.15070](http://arxiv.org/abs/2503.15070)|null|
 |**2025-03-19**|**3D Engine-ready Photorealistic Avatars via Dynamic Textures**|Yifan Wang et.al.|[2503.14943](http://arxiv.org/abs/2503.14943)|null|
 |**2025-03-19**|**ClimateGS: Real-Time Climate Simulation with 3D Gaussian Style Transfer**|Yuezhen Xie et.al.|[2503.14845](http://arxiv.org/abs/2503.14845)|null|
-|**2025-03-18**|**Segmentation-Guided Neural Radiance Fields for Novel Street View Synthesis**|Yizhou Li et.al.|[2503.14219](http://arxiv.org/abs/2503.14219)|null|
-|**2025-03-17**|**Improving Geometric Consistency for 360-Degree Neural Radiance Fields in Indoor Scenarios**|Iryna Repinetska et.al.|[2503.13710](http://arxiv.org/abs/2503.13710)|null|
-|**2025-03-17**|**TriDF: Triplane-Accelerated Density Fields for Few-Shot Remote Sensing Novel View Synthesis**|Jiaming Kang et.al.|[2503.13347](http://arxiv.org/abs/2503.13347)|null|
 
 ## SLAM
 
@@ -611,6 +611,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**From Monocular Vision to Autonomous Action: Guiding Tumor Resection via 3D Reconstruction**|Ayberk Acar et.al.|[2503.16263](http://arxiv.org/abs/2503.16263)|null|
 |**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982](http://arxiv.org/abs/2503.13982)|**[link](https://github.com/ais-lab/a-score)**|
 |**2025-03-17**|**Improving Geometric Consistency for 360-Degree Neural Radiance Fields in Indoor Scenarios**|Iryna Repinetska et.al.|[2503.13710](http://arxiv.org/abs/2503.13710)|null|
 |**2025-03-17**|**Gaussian On-the-Fly Splatting: A Progressive Framework for Robust Near Real-Time 3DGS Optimization**|Yiwei Xu et.al.|[2503.13086](http://arxiv.org/abs/2503.13086)|null|
@@ -915,6 +916,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**PromptHash: Affinity-Prompted Collaborative Cross-Modal Learning for Adaptive Hashing Retrieval**|Qiang Zou et.al.|[2503.16064](http://arxiv.org/abs/2503.16064)|**[link](https://github.com/ShiShuMo/PromptHash)**|
+|**2025-03-20**|**Automating 3D Dataset Generation with Neural Radiance Fields**|P. Schulz et.al.|[2503.15997](http://arxiv.org/abs/2503.15997)|null|
 |**2025-03-18**|**3D Densification for Multi-Map Monocular VSLAM in Endoscopy**|X. Anadón et.al.|[2503.14346](http://arxiv.org/abs/2503.14346)|null|
 |**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982](http://arxiv.org/abs/2503.13982)|**[link](https://github.com/ais-lab/a-score)**|
 |**2025-03-17**|**Scale Efficient Training for Large Datasets**|Qing Zhou et.al.|[2503.13385](http://arxiv.org/abs/2503.13385)|null|
@@ -2300,6 +2303,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors**|Tian Yi Lim et.al.|[2503.16275](http://arxiv.org/abs/2503.16275)|null|
+|**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185](http://arxiv.org/abs/2503.16185)|null|
 |**2025-03-19**|**PAPI-Reg: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image**|Yuanchao Yue et.al.|[2503.15285](http://arxiv.org/abs/2503.15285)|null|
 |**2025-03-17**|**Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**|Johan Edstedt et.al.|[2503.13433](http://arxiv.org/abs/2503.13433)|null|
 |**2025-03-17**|**SatDepth: A Novel Dataset for Satellite Image Matching**|Rahul Deshmukh et.al.|[2503.12706](http://arxiv.org/abs/2503.12706)|null|
@@ -2609,6 +2614,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Enhancing Close-up Novel View Synthesis via Pseudo-labeling**|Jiatong Xia et.al.|[2503.15908](http://arxiv.org/abs/2503.15908)|null|
+|**2025-03-19**|**SPNeRF: Open Vocabulary 3D Neural Scene Segmentation with Superpoints**|Weiwen Hu et.al.|[2503.15712](http://arxiv.org/abs/2503.15712)|null|
+|**2025-03-19**|**DiffPortrait360: Consistent Portrait Diffusion for 360 View Synthesis**|Yuming Gu et.al.|[2503.15667](http://arxiv.org/abs/2503.15667)|null|
 |**2025-03-19**|**GO-N3RDet: Geometry Optimized NeRF-enhanced 3D Object Detector**|Zechuan Li et.al.|[2503.15211](http://arxiv.org/abs/2503.15211)|null|
 |**2025-03-19**|**MultiBARF: Integrating Imagery of Different Wavelength Regions by Using Neural Radiance Fields**|Kana Kurata et.al.|[2503.15070](http://arxiv.org/abs/2503.15070)|null|
 |**2025-03-19**|**3D Engine-ready Photorealistic Avatars via Dynamic Textures**|Yifan Wang et.al.|[2503.14943](http://arxiv.org/abs/2503.14943)|null|
